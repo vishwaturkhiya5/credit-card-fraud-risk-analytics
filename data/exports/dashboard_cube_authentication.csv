@@ -1,0 +1,385 @@
+Country,Card_Type,Device_Type,Authentication_Method,Total_Transactions,Fraudulent_Transactions,Total_Amount,Fraud_Loss
+Australia,Credit,Mobile,Chip + PIN,266,2,39143.58,351.55
+Australia,Credit,Mobile,Chip only,1260,16,165923.77,1898.4
+Australia,Credit,Mobile,Neither chip nor PIN,3029,55,429648.26,7246.81
+Australia,Credit,Mobile,PIN only,748,9,114107.51,2220.39
+Australia,Credit,Terminal,Chip + PIN,345,10,49134.59,956.52
+Australia,Credit,Terminal,Chip only,1211,15,163678.06,2635.0699999999997
+Australia,Credit,Terminal,Neither chip nor PIN,2944,57,426654.28,7318.74
+Australia,Credit,Terminal,PIN only,706,14,96636.34,1860.29
+Australia,Credit,Web,Chip + PIN,296,2,42593.88,421.3
+Australia,Credit,Web,Chip only,1241,13,177008.07,1707.86
+Australia,Credit,Web,Neither chip nor PIN,2946,47,427263.09,6440.349999999999
+Australia,Credit,Web,PIN only,735,9,101592.36,870.68
+Australia,Debit,Mobile,Chip + PIN,289,5,40282.54,695.16
+Australia,Debit,Mobile,Chip only,1212,25,177376.14,3305.46
+Australia,Debit,Mobile,Neither chip nor PIN,2926,45,425048.73,7217.41
+Australia,Debit,Mobile,PIN only,706,6,100861.46,1164.91
+Australia,Debit,Terminal,Chip + PIN,300,2,44273.55,771.17
+Australia,Debit,Terminal,Chip only,1244,15,184112.95,2240.11
+Australia,Debit,Terminal,Neither chip nor PIN,3012,44,418403.92,6051.5
+Australia,Debit,Terminal,PIN only,726,11,107344.36,1299.81
+Australia,Debit,Web,Chip + PIN,304,4,44247.97,707.8199999999999
+Australia,Debit,Web,Chip only,1275,17,183916.94,3114.65
+Australia,Debit,Web,Neither chip nor PIN,2852,49,408089.8,6340.82
+Australia,Debit,Web,PIN only,757,8,112470.02,1387.73
+Australia,Gold,Mobile,Chip + PIN,311,8,45422.84,1242.21
+Australia,Gold,Mobile,Chip only,1334,22,193659.78,3333.48
+Australia,Gold,Mobile,Neither chip nor PIN,2915,43,421010.14,5391.68
+Australia,Gold,Mobile,PIN only,743,11,105495.85,1254.3899999999999
+Australia,Gold,Terminal,Chip + PIN,304,2,46505.24,297.34000000000003
+Australia,Gold,Terminal,Chip only,1245,23,186932.85,3469.5
+Australia,Gold,Terminal,Neither chip nor PIN,2844,33,425869.34,5551.07
+Australia,Gold,Terminal,PIN only,733,13,108634.44,2346.93
+Australia,Gold,Web,Chip + PIN,300,6,40539.9,879.02
+Australia,Gold,Web,Chip only,1233,26,187042.36,4709.42
+Australia,Gold,Web,Neither chip nor PIN,2843,36,406408.06,4879.8
+Australia,Gold,Web,PIN only,709,15,94338.77,2243.98
+Australia,Platinum,Mobile,Chip + PIN,328,2,50182.74,472.69
+Australia,Platinum,Mobile,Chip only,1218,16,178292.05,2430.5
+Australia,Platinum,Mobile,Neither chip nor PIN,2946,38,416118.78,4444.36
+Australia,Platinum,Mobile,PIN only,743,7,108392.37,1348.25
+Australia,Platinum,Terminal,Chip + PIN,296,5,47218.87,1019.89
+Australia,Platinum,Terminal,Chip only,1305,17,196290.48,1904.97
+Australia,Platinum,Terminal,Neither chip nor PIN,2983,51,442233.93,8976.33
+Australia,Platinum,Terminal,PIN only,724,9,103735.45,1041.16
+Australia,Platinum,Web,Chip + PIN,333,3,47183.78,351.03
+Australia,Platinum,Web,Chip only,1201,12,164478.36,2536.75
+Australia,Platinum,Web,Neither chip nor PIN,2910,39,423855.25,5068.49
+Australia,Platinum,Web,PIN only,721,12,103597.44,2208.17
+Canada,Credit,Mobile,Chip + PIN,343,2,52006.12,294.06
+Canada,Credit,Mobile,Chip only,1318,11,202827.93,1692.72
+Canada,Credit,Mobile,Neither chip nor PIN,2946,52,425650.29,6735.01
+Canada,Credit,Mobile,PIN only,750,9,114017.97,1389.94
+Canada,Credit,Terminal,Chip + PIN,324,8,44853.78,585.13
+Canada,Credit,Terminal,Chip only,1226,17,177501.36,3039.84
+Canada,Credit,Terminal,Neither chip nor PIN,2957,43,444673.77,5026.78
+Canada,Credit,Terminal,PIN only,705,14,102087.67,1893.6
+Canada,Credit,Web,Chip + PIN,348,4,48136.65,514.0
+Canada,Credit,Web,Chip only,1267,14,184856.62,2407.36
+Canada,Credit,Web,Neither chip nor PIN,2843,39,417773.8,4713.74
+Canada,Credit,Web,PIN only,711,13,102873.0,1514.1
+Canada,Debit,Mobile,Chip + PIN,305,5,45951.62,451.99
+Canada,Debit,Mobile,Chip only,1308,26,188017.67,3776.79
+Canada,Debit,Mobile,Neither chip nor PIN,2884,35,418644.5,5359.79
+Canada,Debit,Mobile,PIN only,798,8,116989.81,1023.48
+Canada,Debit,Terminal,Chip + PIN,324,2,45005.64,282.46000000000004
+Canada,Debit,Terminal,Chip only,1262,19,188395.81,2901.96
+Canada,Debit,Terminal,Neither chip nor PIN,2961,50,433077.73,7817.38
+Canada,Debit,Terminal,PIN only,721,10,108513.44,1289.6100000000001
+Canada,Debit,Web,Chip + PIN,318,6,43799.3,722.5699999999999
+Canada,Debit,Web,Chip only,1248,12,188075.0,1650.6100000000001
+Canada,Debit,Web,Neither chip nor PIN,2876,38,412838.27,6317.49
+Canada,Debit,Web,PIN only,769,10,108889.65,1065.86
+Canada,Gold,Mobile,Chip + PIN,306,5,44031.47,1107.71
+Canada,Gold,Mobile,Chip only,1282,20,183223.06,1927.66
+Canada,Gold,Mobile,Neither chip nor PIN,2959,44,422173.51,5995.02
+Canada,Gold,Mobile,PIN only,717,5,107686.93,471.31
+Canada,Gold,Terminal,Chip + PIN,320,6,49485.59,396.08000000000004
+Canada,Gold,Terminal,Chip only,1275,15,178618.13999999998,2146.88
+Canada,Gold,Terminal,Neither chip nor PIN,2840,46,415674.48,6716.44
+Canada,Gold,Terminal,PIN only,696,11,95336.2,1098.28
+Canada,Gold,Web,Chip + PIN,309,5,42539.77,871.42
+Canada,Gold,Web,Chip only,1271,13,183292.32,1556.47
+Canada,Gold,Web,Neither chip nor PIN,2823,42,404882.44,6369.19
+Canada,Gold,Web,PIN only,760,9,109607.97,1291.75
+Canada,Platinum,Mobile,Chip + PIN,311,6,43301.47,1038.93
+Canada,Platinum,Mobile,Chip only,1211,18,176297.19,2298.4500000000003
+Canada,Platinum,Mobile,Neither chip nor PIN,2890,33,414347.86,4912.22
+Canada,Platinum,Mobile,PIN only,729,7,108932.79,649.3
+Canada,Platinum,Terminal,Chip + PIN,311,7,44160.74,1035.38
+Canada,Platinum,Terminal,Chip only,1276,19,177346.16,2584.93
+Canada,Platinum,Terminal,Neither chip nor PIN,2888,39,418946.21,5925.29
+Canada,Platinum,Terminal,PIN only,728,10,107062.87,1112.15
+Canada,Platinum,Web,Chip + PIN,299,8,43699.84,1586.42
+Canada,Platinum,Web,Chip only,1354,22,203232.32,2253.83
+Canada,Platinum,Web,Neither chip nor PIN,2907,42,432147.89,6019.49
+Canada,Platinum,Web,PIN only,740,9,101862.97,1010.45
+France,Credit,Mobile,Chip + PIN,335,6,51703.05,1001.98
+France,Credit,Mobile,Chip only,1315,19,194788.44,4102.72
+France,Credit,Mobile,Neither chip nor PIN,2811,49,404412.37,7191.54
+France,Credit,Mobile,PIN only,691,11,101968.81,1039.43
+France,Credit,Terminal,Chip + PIN,298,8,45712.29,1739.38
+France,Credit,Terminal,Chip only,1217,15,188388.86,1992.03
+France,Credit,Terminal,Neither chip nor PIN,2917,38,429505.4,6666.1
+France,Credit,Terminal,PIN only,721,15,107220.8,2942.66
+France,Credit,Web,Chip + PIN,338,4,49029.04,1451.4299999999998
+France,Credit,Web,Chip only,1242,16,186206.95,1648.85
+France,Credit,Web,Neither chip nor PIN,2887,46,419046.06,7287.01
+France,Credit,Web,PIN only,749,10,110661.07,2339.45
+France,Debit,Mobile,Chip + PIN,330,4,45370.54,462.47
+France,Debit,Mobile,Chip only,1260,27,180626.77,2674.18
+France,Debit,Mobile,Neither chip nor PIN,2953,61,437651.0,9940.62
+France,Debit,Mobile,PIN only,737,13,107653.43,1502.17
+France,Debit,Terminal,Chip + PIN,301,4,42479.89,329.76
+France,Debit,Terminal,Chip only,1240,16,182879.52,2604.37
+France,Debit,Terminal,Neither chip nor PIN,2916,36,416018.73,4911.45
+France,Debit,Terminal,PIN only,696,12,98449.19,2173.49
+France,Debit,Web,Chip + PIN,306,9,45128.58,1306.73
+France,Debit,Web,Chip only,1344,14,189945.13,1610.73
+France,Debit,Web,Neither chip nor PIN,2934,41,421142.1,5653.09
+France,Debit,Web,PIN only,719,7,105307.53,908.4300000000001
+France,Gold,Mobile,Chip + PIN,289,2,43230.0,490.04999999999995
+France,Gold,Mobile,Chip only,1304,16,195205.33,2236.1
+France,Gold,Mobile,Neither chip nor PIN,2917,50,423632.81,8378.55
+France,Gold,Mobile,PIN only,688,11,101644.65,1801.15
+France,Gold,Terminal,Chip + PIN,320,4,45648.67,510.89000000000004
+France,Gold,Terminal,Chip only,1275,13,182135.97,1722.52
+France,Gold,Terminal,Neither chip nor PIN,2939,42,419832.15,5558.96
+France,Gold,Terminal,PIN only,724,9,106575.65,1605.1499999999999
+France,Gold,Web,Chip + PIN,288,3,46595.26,626.19
+France,Gold,Web,Chip only,1192,21,176021.19,3313.04
+France,Gold,Web,Neither chip nor PIN,2855,40,416075.88,5257.92
+France,Gold,Web,PIN only,748,7,112253.77,1034.6599999999999
+France,Platinum,Mobile,Chip + PIN,315,6,46469.69,587.16
+France,Platinum,Mobile,Chip only,1247,15,177800.7,1782.07
+France,Platinum,Mobile,Neither chip nor PIN,2948,52,429886.12,8206.48
+France,Platinum,Mobile,PIN only,753,9,109805.97,973.31
+France,Platinum,Terminal,Chip + PIN,351,5,52124.92,398.82
+France,Platinum,Terminal,Chip only,1314,18,196292.58,2559.87
+France,Platinum,Terminal,Neither chip nor PIN,2981,41,423943.41,4629.76
+France,Platinum,Terminal,PIN only,756,8,111727.93,1204.45
+France,Platinum,Web,Chip + PIN,288,2,43054.36,161.79000000000002
+France,Platinum,Web,Chip only,1198,17,171489.89,3126.92
+France,Platinum,Web,Neither chip nor PIN,2989,38,436796.26,5421.4
+France,Platinum,Web,PIN only,687,12,99302.59,1516.8600000000001
+Germany,Credit,Mobile,Chip + PIN,303,4,44409.48,245.29
+Germany,Credit,Mobile,Chip only,1310,31,194738.93,4950.9
+Germany,Credit,Mobile,Neither chip nor PIN,2943,51,429001.97,5971.3099999999995
+Germany,Credit,Mobile,PIN only,716,15,102460.78,2412.29
+Germany,Credit,Terminal,Chip + PIN,287,6,41316.47,1330.03
+Germany,Credit,Terminal,Chip only,1190,28,171168.39,4239.25
+Germany,Credit,Terminal,Neither chip nor PIN,3059,43,439338.61,6347.9
+Germany,Credit,Terminal,PIN only,694,12,97500.06,1651.02
+Germany,Credit,Web,Chip + PIN,299,5,44940.86,973.77
+Germany,Credit,Web,Chip only,1232,13,174931.14,2841.56
+Germany,Credit,Web,Neither chip nor PIN,2867,44,413592.78,5385.57
+Germany,Credit,Web,PIN only,721,6,101924.33,628.62
+Germany,Debit,Mobile,Chip + PIN,312,6,45980.03,1152.93
+Germany,Debit,Mobile,Chip only,1267,30,185675.1,3399.68
+Germany,Debit,Mobile,Neither chip nor PIN,2852,33,420071.64,4552.97
+Germany,Debit,Mobile,PIN only,761,10,109680.15,717.09
+Germany,Debit,Terminal,Chip + PIN,317,5,42526.98,907.87
+Germany,Debit,Terminal,Chip only,1266,21,184165.49,2504.3
+Germany,Debit,Terminal,Neither chip nor PIN,2821,40,402846.3,6033.13
+Germany,Debit,Terminal,PIN only,759,11,108525.48,1290.52
+Germany,Debit,Web,Chip + PIN,329,2,46635.94,310.26
+Germany,Debit,Web,Chip only,1203,20,171676.19,2412.49
+Germany,Debit,Web,Neither chip nor PIN,2851,49,422170.51,6395.86
+Germany,Debit,Web,PIN only,745,7,108055.75,835.29
+Germany,Gold,Mobile,Chip + PIN,325,2,49097.56,377.03000000000003
+Germany,Gold,Mobile,Chip only,1198,14,173087.72,1587.77
+Germany,Gold,Mobile,Neither chip nor PIN,2925,51,430752.86,7917.51
+Germany,Gold,Mobile,PIN only,740,12,100924.92,1846.97
+Germany,Gold,Terminal,Chip + PIN,299,4,41408.78,389.78000000000003
+Germany,Gold,Terminal,Chip only,1240,21,179000.98,2686.15
+Germany,Gold,Terminal,Neither chip nor PIN,2935,41,425972.44,5977.79
+Germany,Gold,Terminal,PIN only,763,9,111645.37,1013.1800000000001
+Germany,Gold,Web,Chip + PIN,329,7,48032.45,1143.6
+Germany,Gold,Web,Chip only,1294,22,187907.33,3196.69
+Germany,Gold,Web,Neither chip nor PIN,2956,43,432421.93,6949.31
+Germany,Gold,Web,PIN only,718,11,104707.77,1690.06
+Germany,Platinum,Mobile,Chip + PIN,320,8,45943.49,1249.84
+Germany,Platinum,Mobile,Chip only,1236,21,175635.12,2591.33
+Germany,Platinum,Mobile,Neither chip nor PIN,2874,52,417775.64,6961.39
+Germany,Platinum,Mobile,PIN only,738,14,113942.48,2562.85
+Germany,Platinum,Terminal,Chip + PIN,314,5,45832.63,650.36
+Germany,Platinum,Terminal,Chip only,1179,18,165189.94,2063.56
+Germany,Platinum,Terminal,Neither chip nor PIN,3047,53,437545.15,8244.35
+Germany,Platinum,Terminal,PIN only,775,14,107565.76,2767.64
+Germany,Platinum,Web,Chip + PIN,288,3,43223.32,684.5699999999999
+Germany,Platinum,Web,Chip only,1253,13,178663.75,1138.67
+Germany,Platinum,Web,Neither chip nor PIN,2858,55,418961.79,7208.79
+Germany,Platinum,Web,PIN only,712,11,100307.01,1909.03
+India,Credit,Mobile,Chip + PIN,325,8,49530.090000000004,961.34
+India,Credit,Mobile,Chip only,1244,17,167972.5,2333.9
+India,Credit,Mobile,Neither chip nor PIN,2939,43,436929.21,6075.4400000000005
+India,Credit,Mobile,PIN only,699,4,100315.1,324.53
+India,Credit,Terminal,Chip + PIN,294,7,42281.35,1100.11
+India,Credit,Terminal,Chip only,1272,22,186566.29,4023.86
+India,Credit,Terminal,Neither chip nor PIN,2922,33,423909.47,5640.8
+India,Credit,Terminal,PIN only,708,18,108216.66,2808.78
+India,Credit,Web,Chip + PIN,298,6,42579.81,510.03999999999996
+India,Credit,Web,Chip only,1311,16,188104.01,1885.06
+India,Credit,Web,Neither chip nor PIN,2885,46,410872.4,6573.81
+India,Credit,Web,PIN only,714,10,107230.33,908.9200000000001
+India,Debit,Mobile,Chip + PIN,330,5,49918.41,550.75
+India,Debit,Mobile,Chip only,1260,25,176399.74,3565.84
+India,Debit,Mobile,Neither chip nor PIN,2926,50,421388.85,7645.42
+India,Debit,Mobile,PIN only,708,9,105199.17,1138.93
+India,Debit,Terminal,Chip + PIN,339,4,48976.32,572.94
+India,Debit,Terminal,Chip only,1251,24,182096.7,3937.41
+India,Debit,Terminal,Neither chip nor PIN,2900,50,412730.43,6888.07
+India,Debit,Terminal,PIN only,721,13,103117.75,1798.88
+India,Debit,Web,Chip + PIN,322,4,45799.49,603.0699999999999
+India,Debit,Web,Chip only,1238,21,171065.01,2853.2599999999998
+India,Debit,Web,Neither chip nor PIN,2917,41,434329.22,5113.58
+India,Debit,Web,PIN only,689,8,97923.91,789.79
+India,Gold,Mobile,Chip + PIN,288,7,46127.83,922.9200000000001
+India,Gold,Mobile,Chip only,1247,19,181278.96,2760.51
+India,Gold,Mobile,Neither chip nor PIN,2950,39,432144.08,5911.03
+India,Gold,Mobile,PIN only,702,7,102825.12,620.48
+India,Gold,Terminal,Chip + PIN,305,6,46227.93,872.0999999999999
+India,Gold,Terminal,Chip only,1252,20,178348.08,2435.93
+India,Gold,Terminal,Neither chip nor PIN,2919,46,431251.53,8228.33
+India,Gold,Terminal,PIN only,724,8,106675.86,1187.79
+India,Gold,Web,Chip + PIN,302,3,45447.36,473.19
+India,Gold,Web,Chip only,1195,15,176913.06,3060.2400000000002
+India,Gold,Web,Neither chip nor PIN,2860,45,409362.6,6252.13
+India,Gold,Web,PIN only,752,11,104439.0,1036.24
+India,Platinum,Mobile,Chip + PIN,337,6,47097.73,867.5
+India,Platinum,Mobile,Chip only,1211,21,173695.48,2553.45
+India,Platinum,Mobile,Neither chip nor PIN,2904,49,423368.5,6145.99
+India,Platinum,Mobile,PIN only,733,12,111275.61,1704.22
+India,Platinum,Terminal,Chip + PIN,318,11,46456.0,1638.1799999999998
+India,Platinum,Terminal,Chip only,1299,32,186157.27,3985.7
+India,Platinum,Terminal,Neither chip nor PIN,2913,49,429229.76,7723.82
+India,Platinum,Terminal,PIN only,756,15,103747.45,1618.37
+India,Platinum,Web,Chip + PIN,288,1,49049.4,60.93
+India,Platinum,Web,Chip only,1296,17,190831.85,3299.27
+India,Platinum,Web,Neither chip nor PIN,2851,37,418375.31,6038.6900000000005
+India,Platinum,Web,PIN only,736,9,106404.6,1298.52
+Singapore,Credit,Mobile,Chip + PIN,310,10,44461.88,1463.77
+Singapore,Credit,Mobile,Chip only,1222,17,178845.45,2943.19
+Singapore,Credit,Mobile,Neither chip nor PIN,2915,43,423016.74,6942.68
+Singapore,Credit,Mobile,PIN only,732,11,104554.53,1051.19
+Singapore,Credit,Terminal,Chip + PIN,292,9,44240.69,1214.46
+Singapore,Credit,Terminal,Chip only,1217,22,173577.88,4785.4
+Singapore,Credit,Terminal,Neither chip nor PIN,2858,48,414680.27,7185.24
+Singapore,Credit,Terminal,PIN only,746,17,108128.5,3522.96
+Singapore,Credit,Web,Chip + PIN,308,6,51026.05,849.28
+Singapore,Credit,Web,Chip only,1155,19,170672.84,2374.38
+Singapore,Credit,Web,Neither chip nor PIN,2879,33,416706.4,5011.93
+Singapore,Credit,Web,PIN only,726,7,110883.11,841.8399999999999
+Singapore,Debit,Mobile,Chip + PIN,327,2,46573.36,221.94
+Singapore,Debit,Mobile,Chip only,1215,21,175194.49,3618.84
+Singapore,Debit,Mobile,Neither chip nor PIN,2953,39,423249.64,5340.81
+Singapore,Debit,Mobile,PIN only,684,6,95428.58,941.01
+Singapore,Debit,Terminal,Chip + PIN,310,7,43448.53,932.39
+Singapore,Debit,Terminal,Chip only,1236,24,177362.28,2915.68
+Singapore,Debit,Terminal,Neither chip nor PIN,2954,46,432814.99,7955.01
+Singapore,Debit,Terminal,PIN only,725,12,101120.33,1410.78
+Singapore,Debit,Web,Chip + PIN,324,3,46465.3,512.82
+Singapore,Debit,Web,Chip only,1194,16,171934.34,3710.38
+Singapore,Debit,Web,Neither chip nor PIN,2980,43,436545.07,5873.19
+Singapore,Debit,Web,PIN only,750,13,109001.22,1210.18
+Singapore,Gold,Mobile,Chip + PIN,313,4,46517.9,477.83000000000004
+Singapore,Gold,Mobile,Chip only,1229,23,173478.33,3976.75
+Singapore,Gold,Mobile,Neither chip nor PIN,2949,45,418899.97,6881.93
+Singapore,Gold,Mobile,PIN only,770,6,113191.58,2073.98
+Singapore,Gold,Terminal,Chip + PIN,319,4,47607.73,466.71999999999997
+Singapore,Gold,Terminal,Chip only,1259,21,182097.9,2647.4300000000003
+Singapore,Gold,Terminal,Neither chip nor PIN,2917,49,431321.05,7331.87
+Singapore,Gold,Terminal,PIN only,760,9,113335.77,985.3
+Singapore,Gold,Web,Chip + PIN,340,6,47336.96,1347.58
+Singapore,Gold,Web,Chip only,1247,16,177543.44,1862.31
+Singapore,Gold,Web,Neither chip nor PIN,2937,31,430160.35,4067.02
+Singapore,Gold,Web,PIN only,736,12,101809.81999999999,1686.65
+Singapore,Platinum,Mobile,Chip + PIN,307,1,46976.47,47.46
+Singapore,Platinum,Mobile,Chip only,1294,21,188220.5,3198.27
+Singapore,Platinum,Mobile,Neither chip nor PIN,2928,50,431885.59,7275.78
+Singapore,Platinum,Mobile,PIN only,733,9,109173.96,1346.3
+Singapore,Platinum,Terminal,Chip + PIN,290,3,43709.6,294.88
+Singapore,Platinum,Terminal,Chip only,1208,15,180842.12,2330.96
+Singapore,Platinum,Terminal,Neither chip nor PIN,2824,44,415619.24,8111.61
+Singapore,Platinum,Terminal,PIN only,701,14,93723.79,1627.25
+Singapore,Platinum,Web,Chip + PIN,303,5,47338.7,406.4
+Singapore,Platinum,Web,Chip only,1237,19,185161.16,3911.3
+Singapore,Platinum,Web,Neither chip nor PIN,2922,40,428666.09,6382.87
+Singapore,Platinum,Web,PIN only,748,14,107589.3,2125.9
+UK,Credit,Mobile,Chip + PIN,324,8,46478.42,1143.09
+UK,Credit,Mobile,Chip only,1283,20,183508.58,2267.28
+UK,Credit,Mobile,Neither chip nor PIN,2986,45,433760.22,6789.12
+UK,Credit,Mobile,PIN only,753,6,106330.2,516.8199999999999
+UK,Credit,Terminal,Chip + PIN,301,4,43026.979999999996,616.0300000000001
+UK,Credit,Terminal,Chip only,1222,16,180190.94,2686.7599999999998
+UK,Credit,Terminal,Neither chip nor PIN,2960,53,447792.73,7636.66
+UK,Credit,Terminal,PIN only,725,14,101370.84,1633.22
+UK,Credit,Web,Chip + PIN,299,7,41952.9,876.98
+UK,Credit,Web,Chip only,1255,20,191389.84,2782.66
+UK,Credit,Web,Neither chip nor PIN,2937,51,431996.14,7617.94
+UK,Credit,Web,PIN only,714,12,99065.48,1973.6200000000001
+UK,Debit,Mobile,Chip + PIN,345,9,51690.93,1175.32
+UK,Debit,Mobile,Chip only,1269,18,182654.93,2540.38
+UK,Debit,Mobile,Neither chip nor PIN,2940,31,433232.46,4698.23
+UK,Debit,Mobile,PIN only,717,12,104666.09,1398.84
+UK,Debit,Terminal,Chip + PIN,316,3,48443.04,311.78
+UK,Debit,Terminal,Chip only,1256,11,178539.79,1979.8
+UK,Debit,Terminal,Neither chip nor PIN,2898,46,418793.56,6689.67
+UK,Debit,Terminal,PIN only,706,9,100664.63,1554.0
+UK,Debit,Web,Chip + PIN,305,3,45321.6,373.57
+UK,Debit,Web,Chip only,1216,24,175968.89,3142.37
+UK,Debit,Web,Neither chip nor PIN,2964,49,444360.47,6284.64
+UK,Debit,Web,PIN only,728,17,110365.57,1843.63
+UK,Gold,Mobile,Chip + PIN,332,6,49128.39,1159.1
+UK,Gold,Mobile,Chip only,1252,14,180024.01,1627.71
+UK,Gold,Mobile,Neither chip nor PIN,2940,43,436751.18,6084.7
+UK,Gold,Mobile,PIN only,710,14,106801.13,2379.31
+UK,Gold,Terminal,Chip + PIN,314,9,47468.2,899.31
+UK,Gold,Terminal,Chip only,1216,17,177847.3,2196.96
+UK,Gold,Terminal,Neither chip nor PIN,2888,41,417228.92,5758.45
+UK,Gold,Terminal,PIN only,713,14,106694.1,2069.03
+UK,Gold,Web,Chip + PIN,288,6,41531.32,999.46
+UK,Gold,Web,Chip only,1309,7,186223.93,1270.7
+UK,Gold,Web,Neither chip nor PIN,2835,52,419456.54,8820.69
+UK,Gold,Web,PIN only,717,10,104808.65,2304.73
+UK,Platinum,Mobile,Chip + PIN,328,3,49295.63,588.62
+UK,Platinum,Mobile,Chip only,1293,22,174057.62,2642.67
+UK,Platinum,Mobile,Neither chip nor PIN,2963,46,431279.54,7252.79
+UK,Platinum,Mobile,PIN only,729,15,106321.88,2087.95
+UK,Platinum,Terminal,Chip + PIN,334,8,50990.0,1253.81
+UK,Platinum,Terminal,Chip only,1192,20,167348.19,2457.3
+UK,Platinum,Terminal,Neither chip nor PIN,2976,58,428328.06,8898.22
+UK,Platinum,Terminal,PIN only,759,9,111658.17,977.9
+UK,Platinum,Web,Chip + PIN,301,3,39653.95,270.94
+UK,Platinum,Web,Chip only,1216,20,180619.7,2724.52
+UK,Platinum,Web,Neither chip nor PIN,3026,42,436386.19,5407.03
+UK,Platinum,Web,PIN only,742,11,109524.67,2169.5
+USA,Credit,Mobile,Chip + PIN,347,6,53031.58,1259.6499999999999
+USA,Credit,Mobile,Chip only,1214,17,167449.67,2125.49
+USA,Credit,Mobile,Neither chip nor PIN,2889,40,431899.11,4408.27
+USA,Credit,Mobile,PIN only,720,9,101369.01,1358.0
+USA,Credit,Terminal,Chip + PIN,320,4,52378.86,497.76
+USA,Credit,Terminal,Chip only,1197,21,166236.49,2866.85
+USA,Credit,Terminal,Neither chip nor PIN,2890,37,423365.62,6146.16
+USA,Credit,Terminal,PIN only,727,11,100307.64,1425.1299999999999
+USA,Credit,Web,Chip + PIN,325,2,45315.65,285.5
+USA,Credit,Web,Chip only,1296,15,181722.84,2419.11
+USA,Credit,Web,Neither chip nor PIN,2942,44,429392.04,5346.98
+USA,Credit,Web,PIN only,697,7,103152.72,562.13
+USA,Debit,Mobile,Chip + PIN,280,5,39385.5,977.96
+USA,Debit,Mobile,Chip only,1231,27,174331.76,3972.06
+USA,Debit,Mobile,Neither chip nor PIN,2890,50,432959.34,8676.71
+USA,Debit,Mobile,PIN only,699,13,102368.01,2301.04
+USA,Debit,Terminal,Chip + PIN,308,1,43578.41,96.69
+USA,Debit,Terminal,Chip only,1313,14,186769.62,2510.46
+USA,Debit,Terminal,Neither chip nor PIN,2838,40,420259.21,6198.72
+USA,Debit,Terminal,PIN only,705,10,98866.85,1585.9
+USA,Debit,Web,Chip + PIN,315,2,49173.520000000004,332.95
+USA,Debit,Web,Chip only,1252,17,185067.74,2885.73
+USA,Debit,Web,Neither chip nor PIN,2973,47,431923.83,6656.04
+USA,Debit,Web,PIN only,707,14,99070.45,1972.28
+USA,Gold,Mobile,Chip + PIN,314,5,48739.72,794.8199999999999
+USA,Gold,Mobile,Chip only,1289,13,181812.48,1665.53
+USA,Gold,Mobile,Neither chip nor PIN,2881,40,416450.71,5978.69
+USA,Gold,Mobile,PIN only,705,20,102630.75,3308.39
+USA,Gold,Terminal,Chip + PIN,301,4,41516.17,254.68
+USA,Gold,Terminal,Chip only,1235,12,172620.34,1282.82
+USA,Gold,Terminal,Neither chip nor PIN,2993,38,427759.17,4415.51
+USA,Gold,Terminal,PIN only,732,8,112405.2,1234.21
+USA,Gold,Web,Chip + PIN,298,2,43533.21,130.52
+USA,Gold,Web,Chip only,1255,27,185426.24,3444.07
+USA,Gold,Web,Neither chip nor PIN,2919,38,420975.35,5778.56
+USA,Gold,Web,PIN only,713,9,101267.47,1223.18
+USA,Platinum,Mobile,Chip + PIN,330,5,46428.4,677.7
+USA,Platinum,Mobile,Chip only,1279,17,190242.93,2948.23
+USA,Platinum,Mobile,Neither chip nor PIN,2843,32,420717.05,5142.3
+USA,Platinum,Mobile,PIN only,727,8,104426.98,974.64
+USA,Platinum,Terminal,Chip + PIN,328,6,45357.09,492.24
+USA,Platinum,Terminal,Chip only,1200,10,164544.49,1701.96
+USA,Platinum,Terminal,Neither chip nor PIN,2946,42,431879.19,5800.35
+USA,Platinum,Terminal,PIN only,767,12,112625.06,1881.84
+USA,Platinum,Web,Chip + PIN,317,9,46878.81,844.06
+USA,Platinum,Web,Chip only,1259,16,186966.03,2960.46
+USA,Platinum,Web,Neither chip nor PIN,2841,40,411078.99,6394.71
+USA,Platinum,Web,PIN only,719,17,100714.97,2844.5499999999997

@@ -1,0 +1,961 @@
+Country,Card_Type,Device_Type,Merchant_Category,Total_Transactions,Fraudulent_Transactions,Total_Amount,Fraud_Loss
+Australia,Credit,Mobile,Clothing,518,9,71195.6,1367.92
+Australia,Credit,Mobile,Electronics,532,7,69548.54,1030.42
+Australia,Credit,Mobile,Entertainment,523,7,70383.23,427.63
+Australia,Credit,Mobile,Food,534,6,76801.9,333.1
+Australia,Credit,Mobile,Fuel,552,11,80184.81,2194.07
+Australia,Credit,Mobile,Groceries,534,6,77321.72,1048.72
+Australia,Credit,Mobile,Health,581,9,84024.63,882.1
+Australia,Credit,Mobile,Online Services,512,10,74476.46,1647.12
+Australia,Credit,Mobile,Travel,483,8,67632.54,963.09
+Australia,Credit,Mobile,Utilities,534,9,77253.69,1822.98
+Australia,Credit,Terminal,Clothing,544,9,73716.05,1041.68
+Australia,Credit,Terminal,Electronics,540,7,73691.83,832.72
+Australia,Credit,Terminal,Entertainment,504,7,73974.23,852.24
+Australia,Credit,Terminal,Food,531,11,76102.54,1673.92
+Australia,Credit,Terminal,Fuel,549,8,80745.95,1253.0200000000002
+Australia,Credit,Terminal,Groceries,497,14,68814.31,1938.7
+Australia,Credit,Terminal,Health,502,11,71043.77,1133.74
+Australia,Credit,Terminal,Online Services,524,14,75080.98,2009.99
+Australia,Credit,Terminal,Travel,488,7,65193.2,511.67999999999995
+Australia,Credit,Terminal,Utilities,527,8,77740.41,1522.9299999999998
+Australia,Credit,Web,Clothing,515,7,76655.31,1023.64
+Australia,Credit,Web,Electronics,538,8,77778.08,1145.8
+Australia,Credit,Web,Entertainment,521,11,74239.46,1699.19
+Australia,Credit,Web,Food,489,6,69562.92,631.34
+Australia,Credit,Web,Fuel,509,6,71862.68,854.39
+Australia,Credit,Web,Groceries,573,9,78244.37,1160.54
+Australia,Credit,Web,Health,522,10,81411.67,1020.54
+Australia,Credit,Web,Online Services,493,2,70546.6,132.62
+Australia,Credit,Web,Travel,549,5,73004.64,781.15
+Australia,Credit,Web,Utilities,509,7,75151.67,990.98
+Australia,Debit,Mobile,Clothing,483,8,70446.81,1222.69
+Australia,Debit,Mobile,Electronics,528,9,76119.41,1235.27
+Australia,Debit,Mobile,Entertainment,505,10,72943.94,1153.8
+Australia,Debit,Mobile,Food,490,6,67439.22,1251.27
+Australia,Debit,Mobile,Fuel,531,10,73846.48,1174.17
+Australia,Debit,Mobile,Groceries,501,9,71947.51,1278.38
+Australia,Debit,Mobile,Health,534,7,77452.72,1266.92
+Australia,Debit,Mobile,Online Services,493,11,73228.66,1445.0
+Australia,Debit,Mobile,Travel,554,6,81331.87,1400.9199999999998
+Australia,Debit,Mobile,Utilities,514,5,78812.25,954.52
+Australia,Debit,Terminal,Clothing,544,5,80726.99,521.1
+Australia,Debit,Terminal,Electronics,548,5,78636.08,441.68
+Australia,Debit,Terminal,Entertainment,577,6,84750.96,1143.09
+Australia,Debit,Terminal,Food,502,7,67810.67,891.79
+Australia,Debit,Terminal,Fuel,505,5,71748.34,526.2
+Australia,Debit,Terminal,Groceries,519,10,74115.85,1211.79
+Australia,Debit,Terminal,Health,523,9,76600.07,2217.76
+Australia,Debit,Terminal,Online Services,535,8,72558.49,1337.81
+Australia,Debit,Terminal,Travel,551,11,79552.36,1649.08
+Australia,Debit,Terminal,Utilities,478,6,67634.97,422.28999999999996
+Australia,Debit,Web,Clothing,504,7,71710.33,489.17
+Australia,Debit,Web,Electronics,529,10,75361.95,1586.46
+Australia,Debit,Web,Entertainment,510,3,70123.17,370.0
+Australia,Debit,Web,Food,534,12,83097.4,2079.52
+Australia,Debit,Web,Fuel,526,7,76103.2,1422.42
+Australia,Debit,Web,Groceries,518,10,74308.81,1980.81
+Australia,Debit,Web,Health,535,9,76974.97,1378.6
+Australia,Debit,Web,Online Services,517,5,77391.69,411.54
+Australia,Debit,Web,Travel,510,10,71837.83,1221.54
+Australia,Debit,Web,Utilities,505,5,71815.38,610.96
+Australia,Gold,Mobile,Clothing,512,6,79264.43,1181.96
+Australia,Gold,Mobile,Electronics,504,7,75966.76,1126.6
+Australia,Gold,Mobile,Entertainment,563,11,78703.28,1091.23
+Australia,Gold,Mobile,Food,571,11,77794.38,2207.59
+Australia,Gold,Mobile,Fuel,523,8,70288.01,986.76
+Australia,Gold,Mobile,Groceries,509,6,74580.86,758.24
+Australia,Gold,Mobile,Health,539,5,82102.04,822.64
+Australia,Gold,Mobile,Online Services,506,10,71617.5,816.6500000000001
+Australia,Gold,Mobile,Travel,528,14,77767.07,1261.72
+Australia,Gold,Mobile,Utilities,548,6,77504.28,968.37
+Australia,Gold,Terminal,Clothing,532,7,77162.68,1597.57
+Australia,Gold,Terminal,Electronics,550,6,82432.84,652.64
+Australia,Gold,Terminal,Entertainment,482,6,72159.95,751.41
+Australia,Gold,Terminal,Food,530,7,78193.77,1737.1399999999999
+Australia,Gold,Terminal,Fuel,512,6,77199.53,985.14
+Australia,Gold,Terminal,Groceries,470,11,65240.82,1513.48
+Australia,Gold,Terminal,Health,534,9,82448.65,1692.8
+Australia,Gold,Terminal,Online Services,493,8,76052.32,1463.53
+Australia,Gold,Terminal,Travel,492,5,78029.62,500.02
+Australia,Gold,Terminal,Utilities,531,6,79021.69,771.11
+Australia,Gold,Web,Clothing,511,9,73094.93,1265.09
+Australia,Gold,Web,Electronics,481,3,68886.24,817.64
+Australia,Gold,Web,Entertainment,507,11,79454.39,1451.8999999999999
+Australia,Gold,Web,Food,512,10,77629.07,1222.5900000000001
+Australia,Gold,Web,Fuel,503,6,70473.45,582.5600000000001
+Australia,Gold,Web,Groceries,512,11,75707.78,2374.54
+Australia,Gold,Web,Health,540,7,75468.29,1126.6599999999999
+Australia,Gold,Web,Online Services,522,10,72197.82,1893.5
+Australia,Gold,Web,Travel,521,6,74153.79,498.96000000000004
+Australia,Gold,Web,Utilities,476,10,61263.33,1478.78
+Australia,Platinum,Mobile,Clothing,530,1,76496.95,152.86
+Australia,Platinum,Mobile,Electronics,504,9,75033.44,1446.68
+Australia,Platinum,Mobile,Entertainment,554,6,81521.58,804.77
+Australia,Platinum,Mobile,Food,517,5,72906.97,333.18
+Australia,Platinum,Mobile,Fuel,536,5,77436.97,314.21000000000004
+Australia,Platinum,Mobile,Groceries,538,5,75146.63,625.0699999999999
+Australia,Platinum,Mobile,Health,516,4,76407.0,782.61
+Australia,Platinum,Mobile,Online Services,519,10,73402.1,1672.92
+Australia,Platinum,Mobile,Travel,487,13,70860.87,1844.03
+Australia,Platinum,Mobile,Utilities,534,5,73773.43000000001,719.47
+Australia,Platinum,Terminal,Clothing,532,14,78384.68,2070.0
+Australia,Platinum,Terminal,Electronics,510,4,75317.09,877.7
+Australia,Platinum,Terminal,Entertainment,489,11,76611.26,1667.9
+Australia,Platinum,Terminal,Food,533,7,77644.92,1694.19
+Australia,Platinum,Terminal,Fuel,542,5,79494.57,465.34000000000003
+Australia,Platinum,Terminal,Groceries,533,11,74904.86,1195.08
+Australia,Platinum,Terminal,Health,584,12,89529.87,1857.84
+Australia,Platinum,Terminal,Online Services,534,4,83485.14,576.4
+Australia,Platinum,Terminal,Travel,536,9,81705.5,1734.52
+Australia,Platinum,Terminal,Utilities,515,5,72400.84,803.38
+Australia,Platinum,Web,Clothing,485,8,71799.94,1087.15
+Australia,Platinum,Web,Electronics,532,5,70506.7,940.5999999999999
+Australia,Platinum,Web,Entertainment,509,10,72121.81,1751.62
+Australia,Platinum,Web,Food,534,8,78619.61,1040.1599999999999
+Australia,Platinum,Web,Fuel,531,4,75846.36,441.41
+Australia,Platinum,Web,Groceries,527,10,76219.25,1125.45
+Australia,Platinum,Web,Health,505,3,71758.95,855.83
+Australia,Platinum,Web,Online Services,511,5,71925.55,1046.02
+Australia,Platinum,Web,Travel,502,8,71081.42,772.8100000000001
+Australia,Platinum,Web,Utilities,529,5,79235.24,1103.3899999999999
+Canada,Credit,Mobile,Clothing,545,3,80252.44,488.13
+Canada,Credit,Mobile,Electronics,552,7,83308.3,845.86
+Canada,Credit,Mobile,Entertainment,528,5,78072.49,1435.3
+Canada,Credit,Mobile,Food,528,2,83255.91,357.75
+Canada,Credit,Mobile,Fuel,528,9,80612.76,1228.44
+Canada,Credit,Mobile,Groceries,520,3,80251.79,657.66
+Canada,Credit,Mobile,Health,531,10,74688.42,1630.69
+Canada,Credit,Mobile,Online Services,530,18,74609.17,1671.94
+Canada,Credit,Mobile,Travel,565,11,82089.71,928.72
+Canada,Credit,Mobile,Utilities,530,6,77361.32,867.24
+Canada,Credit,Terminal,Clothing,506,7,73499.76,848.33
+Canada,Credit,Terminal,Electronics,503,7,72998.39,958.45
+Canada,Credit,Terminal,Entertainment,549,9,81695.67,1673.59
+Canada,Credit,Terminal,Food,507,10,73673.09,1322.79
+Canada,Credit,Terminal,Fuel,526,12,77269.41,1644.46
+Canada,Credit,Terminal,Groceries,532,10,78854.6,929.8199999999999
+Canada,Credit,Terminal,Health,507,7,71235.97,842.5999999999999
+Canada,Credit,Terminal,Online Services,533,5,77967.78,484.84000000000003
+Canada,Credit,Terminal,Travel,511,9,76042.86,993.16
+Canada,Credit,Terminal,Utilities,538,6,85879.05,847.31
+Canada,Credit,Web,Clothing,525,7,77877.91,954.45
+Canada,Credit,Web,Electronics,527,8,76528.27,894.84
+Canada,Credit,Web,Entertainment,507,10,74715.27,1437.99
+Canada,Credit,Web,Food,510,6,80977.76,606.06
+Canada,Credit,Web,Fuel,526,7,75960.34,1174.54
+Canada,Credit,Web,Groceries,505,6,76967.95,481.01
+Canada,Credit,Web,Health,516,9,71520.96,1377.19
+Canada,Credit,Web,Online Services,496,5,71651.88,1164.3899999999999
+Canada,Credit,Web,Travel,538,11,72707.52,987.46
+Canada,Credit,Web,Utilities,519,1,74732.21,71.27
+Canada,Debit,Mobile,Clothing,528,4,74467.1,698.36
+Canada,Debit,Mobile,Electronics,522,6,74930.69,814.3299999999999
+Canada,Debit,Mobile,Entertainment,510,6,79821.17,695.67
+Canada,Debit,Mobile,Food,536,3,76973.05,312.16
+Canada,Debit,Mobile,Fuel,537,14,76122.85,1740.12
+Canada,Debit,Mobile,Groceries,508,5,76875.62,1155.53
+Canada,Debit,Mobile,Health,545,6,77346.65,781.41
+Canada,Debit,Mobile,Online Services,542,13,79795.3,2311.7000000000003
+Canada,Debit,Mobile,Travel,548,10,79563.91,1087.51
+Canada,Debit,Mobile,Utilities,519,7,73707.26,1015.26
+Canada,Debit,Terminal,Clothing,535,9,79788.06,1588.16
+Canada,Debit,Terminal,Electronics,504,6,70819.04,965.4
+Canada,Debit,Terminal,Entertainment,549,8,81487.6,1143.46
+Canada,Debit,Terminal,Food,537,12,78965.1,1926.3500000000001
+Canada,Debit,Terminal,Fuel,515,9,76657.95,1095.69
+Canada,Debit,Terminal,Groceries,545,7,81450.79,908.01
+Canada,Debit,Terminal,Health,536,6,81001.12,830.95
+Canada,Debit,Terminal,Online Services,511,3,74227.79,529.36
+Canada,Debit,Terminal,Travel,502,9,71122.35,1257.77
+Canada,Debit,Terminal,Utilities,534,12,79472.82,2046.26
+Canada,Debit,Web,Clothing,548,4,80303.3,492.40000000000003
+Canada,Debit,Web,Electronics,501,7,72325.21,900.6700000000001
+Canada,Debit,Web,Entertainment,517,6,74384.7,593.46
+Canada,Debit,Web,Food,524,8,74943.2,1161.74
+Canada,Debit,Web,Fuel,495,4,72144.86,545.33
+Canada,Debit,Web,Groceries,518,3,77580.74,426.76
+Canada,Debit,Web,Health,530,6,74379.43,1007.29
+Canada,Debit,Web,Online Services,557,6,77541.91,829.22
+Canada,Debit,Web,Travel,471,10,68904.4,1272.26
+Canada,Debit,Web,Utilities,550,12,81094.47,2527.4
+Canada,Gold,Mobile,Clothing,549,4,76118.09,474.44000000000005
+Canada,Gold,Mobile,Electronics,533,11,79849.81,1181.67
+Canada,Gold,Mobile,Entertainment,538,6,76885.86,1023.3100000000001
+Canada,Gold,Mobile,Food,513,6,74956.71,798.75
+Canada,Gold,Mobile,Fuel,516,10,70443.69,1371.35
+Canada,Gold,Mobile,Groceries,521,7,75044.81999999999,694.4
+Canada,Gold,Mobile,Health,521,11,76352.78,1228.42
+Canada,Gold,Mobile,Online Services,524,4,78488.41,941.5
+Canada,Gold,Mobile,Travel,502,7,72548.85,885.51
+Canada,Gold,Mobile,Utilities,547,8,76425.95,902.35
+Canada,Gold,Terminal,Clothing,541,9,79185.04,1021.89
+Canada,Gold,Terminal,Electronics,527,5,75597.66,754.89
+Canada,Gold,Terminal,Entertainment,488,5,70483.44,505.95
+Canada,Gold,Terminal,Food,509,6,72394.4,331.8
+Canada,Gold,Terminal,Fuel,516,9,74957.97,950.79
+Canada,Gold,Terminal,Groceries,525,9,77698.21,1831.37
+Canada,Gold,Terminal,Health,507,10,71707.26,1308.44
+Canada,Gold,Terminal,Online Services,520,8,70622.28,786.94
+Canada,Gold,Terminal,Travel,513,5,76626.97,485.51
+Canada,Gold,Terminal,Utilities,485,12,69841.18,2380.1
+Canada,Gold,Web,Clothing,488,9,65022.72,966.3299999999999
+Canada,Gold,Web,Electronics,491,4,67776.19,610.12
+Canada,Gold,Web,Entertainment,512,13,71859.34,2005.44
+Canada,Gold,Web,Food,525,11,77339.28,1512.24
+Canada,Gold,Web,Fuel,545,11,82293.12,2325.42
+Canada,Gold,Web,Groceries,529,9,76954.05,970.76
+Canada,Gold,Web,Health,498,2,75635.69,303.41999999999996
+Canada,Gold,Web,Online Services,501,2,69992.24,99.74000000000001
+Canada,Gold,Web,Travel,540,2,76710.57,333.28999999999996
+Canada,Gold,Web,Utilities,534,6,76739.3,962.0699999999999
+Canada,Platinum,Mobile,Clothing,508,10,73623.93000000001,1090.37
+Canada,Platinum,Mobile,Electronics,508,3,71598.46,200.04000000000002
+Canada,Platinum,Mobile,Entertainment,462,2,65679.01,519.86
+Canada,Platinum,Mobile,Food,498,8,78704.81,950.36
+Canada,Platinum,Mobile,Fuel,532,8,75119.58,1693.6200000000001
+Canada,Platinum,Mobile,Groceries,547,5,78503.44,728.04
+Canada,Platinum,Mobile,Health,506,6,75592.28,972.37
+Canada,Platinum,Mobile,Online Services,571,8,77808.43,949.7
+Canada,Platinum,Mobile,Travel,493,8,72092.09,1206.8200000000002
+Canada,Platinum,Mobile,Utilities,516,6,74157.28,587.72
+Canada,Platinum,Terminal,Clothing,511,10,72594.23,1160.32
+Canada,Platinum,Terminal,Electronics,516,8,78945.14,1101.71
+Canada,Platinum,Terminal,Entertainment,511,6,72771.43000000001,875.96
+Canada,Platinum,Terminal,Food,544,6,78235.48,808.78
+Canada,Platinum,Terminal,Fuel,563,4,77634.97,550.54
+Canada,Platinum,Terminal,Groceries,496,7,70142.17,1229.22
+Canada,Platinum,Terminal,Health,527,9,77828.58,1285.18
+Canada,Platinum,Terminal,Online Services,490,7,73172.7,870.96
+Canada,Platinum,Terminal,Travel,510,8,72477.24,1287.97
+Canada,Platinum,Terminal,Utilities,535,10,73714.04,1487.1100000000001
+Canada,Platinum,Web,Clothing,534,5,79580.92,946.8299999999999
+Canada,Platinum,Web,Electronics,509,6,77546.21,987.55
+Canada,Platinum,Web,Entertainment,537,9,73283.49,1159.6
+Canada,Platinum,Web,Food,553,7,81339.2,823.84
+Canada,Platinum,Web,Fuel,509,13,75969.09,2029.47
+Canada,Platinum,Web,Groceries,532,10,80462.32,1377.3300000000002
+Canada,Platinum,Web,Health,549,8,83096.51,844.39
+Canada,Platinum,Web,Online Services,544,6,80497.45,520.0799999999999
+Canada,Platinum,Web,Travel,496,9,73255.2,1113.01
+Canada,Platinum,Web,Utilities,537,8,75912.63,1068.09
+France,Credit,Mobile,Clothing,515,10,74118.92,1348.29
+France,Credit,Mobile,Electronics,496,8,70670.77,2235.63
+France,Credit,Mobile,Entertainment,515,4,73688.43,317.38
+France,Credit,Mobile,Food,540,8,83851.06,1528.33
+France,Credit,Mobile,Fuel,515,14,74213.17,1888.17
+France,Credit,Mobile,Groceries,551,15,80244.84,2290.87
+France,Credit,Mobile,Health,494,4,74028.17,713.63
+France,Credit,Mobile,Online Services,503,4,72219.51,300.43
+France,Credit,Mobile,Travel,505,8,77588.63,1333.19
+France,Credit,Mobile,Utilities,518,10,72249.17,1379.75
+France,Credit,Terminal,Clothing,487,10,70981.59,1342.3600000000001
+France,Credit,Terminal,Electronics,512,7,74724.53,1541.31
+France,Credit,Terminal,Entertainment,538,9,84856.64,1622.3
+France,Credit,Terminal,Food,487,8,75299.83,1697.98
+France,Credit,Terminal,Fuel,511,10,71604.89,1325.59
+France,Credit,Terminal,Groceries,534,6,78985.41,998.1400000000001
+France,Credit,Terminal,Health,549,7,81500.5,885.6800000000001
+France,Credit,Terminal,Online Services,521,8,82601.44,1874.18
+France,Credit,Terminal,Travel,478,8,75015.41,1832.88
+France,Credit,Terminal,Utilities,536,3,75257.11,219.75
+France,Credit,Web,Clothing,528,6,73875.19,397.46000000000004
+France,Credit,Web,Electronics,506,9,75239.56,1138.59
+France,Credit,Web,Entertainment,511,5,72331.18,729.2
+France,Credit,Web,Food,562,18,86954.22,3141.9100000000003
+France,Credit,Web,Fuel,541,7,77772.0,1241.27
+France,Credit,Web,Groceries,494,6,75852.92,1146.48
+France,Credit,Web,Health,512,5,71015.25,575.86
+France,Credit,Web,Online Services,517,10,78997.29,2780.2799999999997
+France,Credit,Web,Travel,515,5,75284.97,926.56
+France,Credit,Web,Utilities,530,5,77620.54,649.13
+France,Debit,Mobile,Clothing,536,7,74472.59,384.97
+France,Debit,Mobile,Electronics,529,12,75883.0,1913.42
+France,Debit,Mobile,Entertainment,559,12,83673.06,2496.83
+France,Debit,Mobile,Food,541,9,80865.14,994.76
+France,Debit,Mobile,Fuel,516,6,73892.22,925.3700000000001
+France,Debit,Mobile,Groceries,537,13,80679.1,2008.26
+France,Debit,Mobile,Health,546,9,76925.87,978.2900000000001
+France,Debit,Mobile,Online Services,535,16,83341.53,2636.45
+France,Debit,Mobile,Travel,468,14,67103.89,1417.33
+France,Debit,Mobile,Utilities,513,7,74465.34,823.76
+France,Debit,Terminal,Clothing,520,6,70997.55,1048.1599999999999
+France,Debit,Terminal,Electronics,536,2,75452.81,686.45
+France,Debit,Terminal,Entertainment,549,7,80697.66,756.6600000000001
+France,Debit,Terminal,Food,507,7,73428.35,982.54
+France,Debit,Terminal,Fuel,532,8,75158.44,1110.22
+France,Debit,Terminal,Groceries,505,11,71470.26,1435.32
+France,Debit,Terminal,Health,519,13,73217.26,1342.52
+France,Debit,Terminal,Online Services,485,4,69758.25,604.74
+France,Debit,Terminal,Travel,536,3,82337.92,563.17
+France,Debit,Terminal,Utilities,464,7,67308.83,1489.29
+France,Debit,Web,Clothing,529,8,78848.73,891.04
+France,Debit,Web,Electronics,542,9,76633.73,1345.26
+France,Debit,Web,Entertainment,526,6,72151.36,784.2
+France,Debit,Web,Food,528,7,79032.68,879.9100000000001
+France,Debit,Web,Fuel,512,8,75066.85,1189.85
+France,Debit,Web,Groceries,541,11,77381.49,1496.83
+France,Debit,Web,Health,554,6,76939.37,1190.06
+France,Debit,Web,Online Services,517,3,75219.49,339.86
+France,Debit,Web,Travel,504,5,71432.86,645.68
+France,Debit,Web,Utilities,550,8,78816.78,716.29
+France,Gold,Mobile,Clothing,507,6,80362.47,1774.4199999999998
+France,Gold,Mobile,Electronics,513,7,80433.96,1703.76
+France,Gold,Mobile,Entertainment,525,5,75941.98,265.97
+France,Gold,Mobile,Food,522,9,75322.07,1308.1599999999999
+France,Gold,Mobile,Fuel,479,5,67473.83,967.95
+France,Gold,Mobile,Groceries,555,14,80182.55,2066.48
+France,Gold,Mobile,Health,522,9,73286.64,1772.6899999999998
+France,Gold,Mobile,Online Services,565,9,82143.65,1269.92
+France,Gold,Mobile,Travel,500,10,73372.34,1245.2
+France,Gold,Mobile,Utilities,510,5,75193.3,531.3000000000001
+France,Gold,Terminal,Clothing,533,9,75819.77,1251.72
+France,Gold,Terminal,Electronics,511,6,73859.8,844.25
+France,Gold,Terminal,Entertainment,527,10,74170.13,1305.41
+France,Gold,Terminal,Food,560,6,83846.23,737.81
+France,Gold,Terminal,Fuel,533,2,71556.83,282.92
+France,Gold,Terminal,Groceries,527,7,72491.79,908.05
+France,Gold,Terminal,Health,493,7,74753.7,1100.21
+France,Gold,Terminal,Online Services,558,9,80086.27,1156.03
+France,Gold,Terminal,Travel,529,6,83387.4,1137.1
+France,Gold,Terminal,Utilities,487,6,64220.52,674.02
+France,Gold,Web,Clothing,521,6,76255.65,949.04
+France,Gold,Web,Electronics,493,5,75745.33,649.11
+France,Gold,Web,Entertainment,496,10,72408.66,1131.55
+France,Gold,Web,Food,562,7,79851.57,534.99
+France,Gold,Web,Fuel,503,8,73776.46,1133.89
+France,Gold,Web,Groceries,483,2,67023.58,487.97
+France,Gold,Web,Health,507,6,75718.7,1106.74
+France,Gold,Web,Online Services,499,10,74240.27,1373.94
+France,Gold,Web,Travel,527,9,80080.38,1647.54
+France,Gold,Web,Utilities,492,8,75845.5,1217.04
+France,Platinum,Mobile,Clothing,521,9,75009.46,1370.48
+France,Platinum,Mobile,Electronics,539,13,78361.16,1183.03
+France,Platinum,Mobile,Entertainment,570,8,86365.29,1192.08
+France,Platinum,Mobile,Food,528,6,76180.56,968.99
+France,Platinum,Mobile,Fuel,514,4,72720.6,817.15
+France,Platinum,Mobile,Groceries,509,8,68790.26,1296.71
+France,Platinum,Mobile,Health,517,14,79456.35,1878.3
+France,Platinum,Mobile,Online Services,544,6,83300.9,579.44
+France,Platinum,Mobile,Travel,503,8,74698.68,1063.41
+France,Platinum,Mobile,Utilities,518,6,69079.22,1199.43
+France,Platinum,Terminal,Clothing,515,5,76712.88,375.44
+France,Platinum,Terminal,Electronics,569,4,85773.58,763.36
+France,Platinum,Terminal,Entertainment,524,9,73535.89,1041.55
+France,Platinum,Terminal,Food,555,6,82206.71,638.74
+France,Platinum,Terminal,Fuel,522,10,72583.24,1291.73
+France,Platinum,Terminal,Groceries,519,6,74994.33,745.6
+France,Platinum,Terminal,Health,548,9,77779.48,1049.76
+France,Platinum,Terminal,Online Services,553,12,81338.52,1216.0
+France,Platinum,Terminal,Travel,513,3,70202.6,315.09000000000003
+France,Platinum,Terminal,Utilities,584,8,88961.61,1355.63
+France,Platinum,Web,Clothing,534,8,73525.77,1217.3799999999999
+France,Platinum,Web,Electronics,517,5,72949.8,711.1
+France,Platinum,Web,Entertainment,507,2,76080.59,318.06
+France,Platinum,Web,Food,522,11,74208.59,1711.11
+France,Platinum,Web,Fuel,520,10,80343.5,1578.8
+France,Platinum,Web,Groceries,528,5,77082.08,783.03
+France,Platinum,Web,Health,472,7,68204.0,961.49
+France,Platinum,Web,Online Services,526,6,76894.63,741.89
+France,Platinum,Web,Travel,498,7,73953.97,995.64
+France,Platinum,Web,Utilities,538,8,77400.17,1208.47
+Germany,Credit,Mobile,Clothing,532,10,81687.59,1272.46
+Germany,Credit,Mobile,Electronics,535,8,80350.92,587.54
+Germany,Credit,Mobile,Entertainment,519,17,74147.91,2066.06
+Germany,Credit,Mobile,Food,541,7,77979.94,563.41
+Germany,Credit,Mobile,Fuel,473,6,66691.49,862.6600000000001
+Germany,Credit,Mobile,Groceries,503,9,73038.52,1701.98
+Germany,Credit,Mobile,Health,535,13,72449.91,1459.92
+Germany,Credit,Mobile,Online Services,516,13,78579.05,2298.25
+Germany,Credit,Mobile,Travel,555,8,80458.25,1113.53
+Germany,Credit,Mobile,Utilities,563,10,85227.58,1653.98
+Germany,Credit,Terminal,Clothing,511,12,76350.35,2277.28
+Germany,Credit,Terminal,Electronics,538,12,77253.58,1728.65
+Germany,Credit,Terminal,Entertainment,529,7,77593.79,1635.28
+Germany,Credit,Terminal,Food,544,6,77474.58,1385.3200000000002
+Germany,Credit,Terminal,Fuel,511,5,75802.87,777.6899999999999
+Germany,Credit,Terminal,Groceries,493,7,69184.75,899.72
+Germany,Credit,Terminal,Health,552,15,81450.82,1535.28
+Germany,Credit,Terminal,Online Services,562,12,75391.75,1564.57
+Germany,Credit,Terminal,Travel,496,9,68196.58,935.7
+Germany,Credit,Terminal,Utilities,494,4,70624.46,828.71
+Germany,Credit,Web,Clothing,494,4,68111.87,874.6600000000001
+Germany,Credit,Web,Electronics,533,9,70987.49,1269.6999999999998
+Germany,Credit,Web,Entertainment,482,10,75672.13,1912.09
+Germany,Credit,Web,Food,470,9,71639.48,847.36
+Germany,Credit,Web,Fuel,523,3,80431.36,334.54
+Germany,Credit,Web,Groceries,527,6,76105.01,1347.56
+Germany,Credit,Web,Health,523,5,74253.92,775.0600000000001
+Germany,Credit,Web,Online Services,514,6,69232.97,898.13
+Germany,Credit,Web,Travel,530,6,77087.01,517.9399999999999
+Germany,Credit,Web,Utilities,523,10,71867.87,1052.48
+Germany,Debit,Mobile,Clothing,533,3,78086.65,294.65999999999997
+Germany,Debit,Mobile,Electronics,511,9,75735.81,1028.9
+Germany,Debit,Mobile,Entertainment,540,11,81419.11,1225.56
+Germany,Debit,Mobile,Food,557,11,83429.39,829.1899999999999
+Germany,Debit,Mobile,Fuel,502,10,72616.04,1434.4099999999999
+Germany,Debit,Mobile,Groceries,500,5,70631.35,1096.3200000000002
+Germany,Debit,Mobile,Health,513,7,72773.35,703.8299999999999
+Germany,Debit,Mobile,Online Services,528,5,82128.37,697.25
+Germany,Debit,Mobile,Travel,510,6,77371.74,1455.85
+Germany,Debit,Mobile,Utilities,498,12,67215.11,1056.7
+Germany,Debit,Terminal,Clothing,532,4,75855.03,200.76
+Germany,Debit,Terminal,Electronics,542,11,81418.64,2023.8799999999999
+Germany,Debit,Terminal,Entertainment,463,7,65437.03,1009.02
+Germany,Debit,Terminal,Food,531,2,74996.74,388.59000000000003
+Germany,Debit,Terminal,Fuel,513,8,73685.78,855.0899999999999
+Germany,Debit,Terminal,Groceries,531,9,71165.36,1105.43
+Germany,Debit,Terminal,Health,544,10,76591.08,2115.21
+Germany,Debit,Terminal,Online Services,530,7,71309.68,691.65
+Germany,Debit,Terminal,Travel,504,6,78294.51,1019.16
+Germany,Debit,Terminal,Utilities,473,13,69310.4,1327.03
+Germany,Debit,Web,Clothing,478,7,68607.31,393.82000000000005
+Germany,Debit,Web,Electronics,513,9,73797.54,1363.84
+Germany,Debit,Web,Entertainment,465,3,71062.44,307.49
+Germany,Debit,Web,Food,545,5,79415.71,708.13
+Germany,Debit,Web,Fuel,544,11,78206.3,1904.26
+Germany,Debit,Web,Groceries,520,6,77572.1,1144.6299999999999
+Germany,Debit,Web,Health,519,8,72976.79,884.05
+Germany,Debit,Web,Online Services,499,11,76892.01,1261.67
+Germany,Debit,Web,Travel,523,7,76223.95,697.58
+Germany,Debit,Web,Utilities,522,11,73784.24,1288.43
+Germany,Gold,Mobile,Clothing,542,9,79676.42,1041.03
+Germany,Gold,Mobile,Electronics,534,11,78440.05,1808.79
+Germany,Gold,Mobile,Entertainment,511,7,71739.11,724.6899999999999
+Germany,Gold,Mobile,Food,490,6,73057.46,938.3
+Germany,Gold,Mobile,Fuel,530,11,77184.06,1690.01
+Germany,Gold,Mobile,Groceries,568,13,85225.85,2370.66
+Germany,Gold,Mobile,Health,481,4,70366.98,725.7
+Germany,Gold,Mobile,Online Services,521,9,76688.85,1277.24
+Germany,Gold,Mobile,Travel,519,2,73843.65,588.25
+Germany,Gold,Mobile,Utilities,492,7,67640.63,564.61
+Germany,Gold,Terminal,Clothing,543,7,74999.35,1257.67
+Germany,Gold,Terminal,Electronics,508,8,71011.28,663.2
+Germany,Gold,Terminal,Entertainment,519,9,74318.93,1115.3799999999999
+Germany,Gold,Terminal,Food,563,7,83165.06,916.87
+Germany,Gold,Terminal,Fuel,541,6,80527.32,624.64
+Germany,Gold,Terminal,Groceries,490,5,76127.75,809.62
+Germany,Gold,Terminal,Health,494,9,72496.66,1634.48
+Germany,Gold,Terminal,Online Services,529,12,74513.06,1766.42
+Germany,Gold,Terminal,Travel,508,6,73477.62,447.68
+Germany,Gold,Terminal,Utilities,542,6,77390.54,830.94
+Germany,Gold,Web,Clothing,525,8,74904.86,1269.97
+Germany,Gold,Web,Electronics,529,5,78283.42,821.36
+Germany,Gold,Web,Entertainment,504,7,79096.59,2112.08
+Germany,Gold,Web,Food,531,5,80200.54,624.69
+Germany,Gold,Web,Fuel,535,12,76642.84,1547.41
+Germany,Gold,Web,Groceries,516,7,69681.32,868.27
+Germany,Gold,Web,Health,538,8,74999.34,1190.08
+Germany,Gold,Web,Online Services,520,7,76407.36,768.78
+Germany,Gold,Web,Travel,529,6,76333.9,1312.04
+Germany,Gold,Web,Utilities,570,18,86519.31,2464.98
+Germany,Platinum,Mobile,Clothing,511,14,79341.14,1993.23
+Germany,Platinum,Mobile,Electronics,509,15,67673.0,1599.52
+Germany,Platinum,Mobile,Entertainment,543,6,79867.23,897.1800000000001
+Germany,Platinum,Mobile,Food,534,9,75552.39,1656.6100000000001
+Germany,Platinum,Mobile,Fuel,518,11,74128.31999999999,1552.99
+Germany,Platinum,Mobile,Groceries,507,8,77965.91,828.0500000000001
+Germany,Platinum,Mobile,Health,518,5,77820.35,1058.97
+Germany,Platinum,Mobile,Online Services,495,7,70258.16,759.6
+Germany,Platinum,Mobile,Travel,508,11,75179.86,1276.84
+Germany,Platinum,Mobile,Utilities,525,9,75510.37,1742.42
+Germany,Platinum,Terminal,Clothing,529,5,75418.13,483.36
+Germany,Platinum,Terminal,Electronics,514,11,74756.07,2219.35
+Germany,Platinum,Terminal,Entertainment,531,11,70568.43,1646.27
+Germany,Platinum,Terminal,Food,537,8,78847.6,1417.77
+Germany,Platinum,Terminal,Fuel,540,12,77191.24,1437.53
+Germany,Platinum,Terminal,Groceries,547,15,77913.63,3151.7
+Germany,Platinum,Terminal,Health,554,12,79312.18,1294.65
+Germany,Platinum,Terminal,Online Services,534,6,77551.29,919.87
+Germany,Platinum,Terminal,Travel,524,5,71590.39,404.25
+Germany,Platinum,Terminal,Utilities,505,5,72984.52,751.1600000000001
+Germany,Platinum,Web,Clothing,514,8,71636.18,682.55
+Germany,Platinum,Web,Electronics,508,7,73932.77,449.22
+Germany,Platinum,Web,Entertainment,479,13,71086.3,1834.99
+Germany,Platinum,Web,Food,512,13,80966.1,2041.4699999999998
+Germany,Platinum,Web,Fuel,525,3,77726.43,292.73
+Germany,Platinum,Web,Groceries,499,8,69595.13,1109.87
+Germany,Platinum,Web,Health,523,10,78407.53,1279.6599999999999
+Germany,Platinum,Web,Online Services,506,6,69198.09,927.8399999999999
+Germany,Platinum,Web,Travel,497,10,68250.74,1274.88
+Germany,Platinum,Web,Utilities,548,4,80356.6,1047.8500000000001
+India,Credit,Mobile,Clothing,530,3,77015.67,158.03
+India,Credit,Mobile,Electronics,525,6,73025.01,627.34
+India,Credit,Mobile,Entertainment,542,14,81354.97,2228.33
+India,Credit,Mobile,Food,511,8,72035.32,1281.0
+India,Credit,Mobile,Fuel,524,2,80344.72,303.49
+India,Credit,Mobile,Groceries,488,5,77731.08,256.02
+India,Credit,Mobile,Health,521,10,73321.61,1204.52
+India,Credit,Mobile,Online Services,501,11,68996.4,1509.99
+India,Credit,Mobile,Travel,528,6,74304.19,1007.39
+India,Credit,Mobile,Utilities,537,7,76617.93,1119.1
+India,Credit,Terminal,Clothing,531,5,79603.53,509.01
+India,Credit,Terminal,Electronics,521,11,70515.09,1899.92
+India,Credit,Terminal,Entertainment,494,8,72283.15,1071.17
+India,Credit,Terminal,Food,522,11,73700.2,1285.6899999999998
+India,Credit,Terminal,Fuel,564,9,85476.81,2395.88
+India,Credit,Terminal,Groceries,497,7,73256.97,1048.72
+India,Credit,Terminal,Health,506,10,75389.17,1659.76
+India,Credit,Terminal,Online Services,512,8,74039.4,1894.72
+India,Credit,Terminal,Travel,558,5,86595.28,810.67
+India,Credit,Terminal,Utilities,491,6,70114.17,998.01
+India,Credit,Web,Clothing,523,10,73139.96,919.3299999999999
+India,Credit,Web,Electronics,547,7,79871.92,822.29
+India,Credit,Web,Entertainment,524,4,71185.56,732.97
+India,Credit,Web,Food,506,9,72573.12,1267.33
+India,Credit,Web,Fuel,545,12,77316.53,1168.9
+India,Credit,Web,Groceries,519,12,77751.9,2042.8799999999999
+India,Credit,Web,Health,509,7,74750.46,910.9200000000001
+India,Credit,Web,Online Services,555,4,78334.41,478.11
+India,Credit,Web,Travel,499,7,72937.44,962.15
+India,Credit,Web,Utilities,481,6,70925.25,572.95
+India,Debit,Mobile,Clothing,484,7,68121.69,820.87
+India,Debit,Mobile,Electronics,534,11,75794.32,1752.76
+India,Debit,Mobile,Entertainment,523,8,75557.6,1022.64
+India,Debit,Mobile,Food,523,15,78467.13,2500.81
+India,Debit,Mobile,Fuel,529,4,76414.88,323.4
+India,Debit,Mobile,Groceries,538,11,75118.57,1312.3200000000002
+India,Debit,Mobile,Health,512,3,73764.99,260.03999999999996
+India,Debit,Mobile,Online Services,522,7,72541.58,1657.26
+India,Debit,Mobile,Travel,513,14,76044.85,1879.12
+India,Debit,Mobile,Utilities,546,9,81080.56,1371.72
+India,Debit,Terminal,Clothing,492,10,68665.1,1929.47
+India,Debit,Terminal,Electronics,542,5,73551.17,702.08
+India,Debit,Terminal,Entertainment,515,6,73937.07,563.84
+India,Debit,Terminal,Food,509,4,76714.97,337.2
+India,Debit,Terminal,Fuel,539,11,75207.74,1274.8899999999999
+India,Debit,Terminal,Groceries,545,10,75182.85,1888.73
+India,Debit,Terminal,Health,515,18,71735.89,3186.13
+India,Debit,Terminal,Online Services,532,8,81769.33,739.68
+India,Debit,Terminal,Travel,520,11,77174.94,1516.68
+India,Debit,Terminal,Utilities,502,8,72982.14,1058.6
+India,Debit,Web,Clothing,528,6,74941.77,626.27
+India,Debit,Web,Electronics,497,7,71996.65,574.28
+India,Debit,Web,Entertainment,507,8,71456.75,805.38
+India,Debit,Web,Food,506,9,73215.6,1870.6999999999998
+India,Debit,Web,Fuel,520,4,75839.07,444.59
+India,Debit,Web,Groceries,521,10,78784.25,1588.52
+India,Debit,Web,Health,518,7,78385.9,1201.22
+India,Debit,Web,Online Services,514,10,75539.66,1208.77
+India,Debit,Web,Travel,558,7,78317.55,562.98
+India,Debit,Web,Utilities,497,6,70640.43,476.99
+India,Gold,Mobile,Clothing,529,10,77855.0,1284.08
+India,Gold,Mobile,Electronics,542,4,77542.2,560.26
+India,Gold,Mobile,Entertainment,552,12,81403.08,1867.93
+India,Gold,Mobile,Food,477,7,71582.45,686.43
+India,Gold,Mobile,Fuel,491,3,74240.59,223.46
+India,Gold,Mobile,Groceries,541,10,78657.66,1863.88
+India,Gold,Mobile,Health,536,9,76318.36,1159.42
+India,Gold,Mobile,Online Services,529,2,79602.19,672.78
+India,Gold,Mobile,Travel,519,8,79282.87,1129.6299999999999
+India,Gold,Mobile,Utilities,471,7,65891.59,767.0699999999999
+India,Gold,Terminal,Clothing,498,11,71052.86,1710.01
+India,Gold,Terminal,Electronics,494,8,71009.2,1152.68
+India,Gold,Terminal,Entertainment,521,7,81727.05,1584.72
+India,Gold,Terminal,Food,491,5,70955.84,396.89
+India,Gold,Terminal,Fuel,532,7,77210.98,899.36
+India,Gold,Terminal,Groceries,512,10,77273.72,1976.04
+India,Gold,Terminal,Health,548,3,80328.9,611.63
+India,Gold,Terminal,Online Services,552,9,82205.68,1214.01
+India,Gold,Terminal,Travel,489,14,71326.95,2737.7
+India,Gold,Terminal,Utilities,563,6,79412.22,441.11
+India,Gold,Web,Clothing,523,5,77206.39,1169.0700000000002
+India,Gold,Web,Electronics,496,9,65675.84,1372.2
+India,Gold,Web,Entertainment,529,8,77828.44,960.44
+India,Gold,Web,Food,515,5,73106.41,1616.93
+India,Gold,Web,Fuel,488,6,70912.55,608.26
+India,Gold,Web,Groceries,502,9,71471.58,1125.98
+India,Gold,Web,Health,496,6,75965.11,747.94
+India,Gold,Web,Online Services,536,7,79525.7,904.1700000000001
+India,Gold,Web,Travel,521,12,74115.21,1332.3
+India,Gold,Web,Utilities,503,7,70354.79,984.51
+India,Platinum,Mobile,Clothing,513,5,73575.86,561.76
+India,Platinum,Mobile,Electronics,533,10,78735.06,1232.14
+India,Platinum,Mobile,Entertainment,512,11,69654.24,1378.32
+India,Platinum,Mobile,Food,518,13,74393.15,1022.0699999999999
+India,Platinum,Mobile,Fuel,525,4,73462.11,298.27
+India,Platinum,Mobile,Groceries,524,12,77327.84,1560.44
+India,Platinum,Mobile,Health,533,7,77826.61,1334.1200000000001
+India,Platinum,Mobile,Online Services,483,8,69890.97,932.73
+India,Platinum,Mobile,Travel,506,14,76803.1,2061.56
+India,Platinum,Mobile,Utilities,538,4,83768.38,889.75
+India,Platinum,Terminal,Clothing,493,11,70954.41,1580.54
+India,Platinum,Terminal,Electronics,510,10,71242.82,1733.9099999999999
+India,Platinum,Terminal,Entertainment,527,10,76399.23,1618.3
+India,Platinum,Terminal,Food,535,10,75956.38,1051.76
+India,Platinum,Terminal,Fuel,553,13,80388.64,1551.42
+India,Platinum,Terminal,Groceries,517,12,75508.73,1922.03
+India,Platinum,Terminal,Health,545,10,79834.22,1722.06
+India,Platinum,Terminal,Online Services,512,14,75761.94,1942.9299999999998
+India,Platinum,Terminal,Travel,537,5,80851.13,541.43
+India,Platinum,Terminal,Utilities,557,12,78692.98,1301.69
+India,Platinum,Web,Clothing,461,8,63980.52,1355.1299999999999
+India,Platinum,Web,Electronics,550,3,79434.16,373.08
+India,Platinum,Web,Entertainment,515,4,79755.06,1113.92
+India,Platinum,Web,Food,549,8,84656.64,749.72
+India,Platinum,Web,Fuel,524,1,75429.14,326.27
+India,Platinum,Web,Groceries,537,6,80689.56,1214.34
+India,Platinum,Web,Health,484,14,73312.72,2421.91
+India,Platinum,Web,Online Services,489,9,68485.17,898.65
+India,Platinum,Web,Travel,485,3,69899.06,333.2
+India,Platinum,Web,Utilities,577,8,89019.13,1911.19
+Singapore,Credit,Mobile,Clothing,530,5,77546.03,748.51
+Singapore,Credit,Mobile,Electronics,539,11,82093.11,2598.18
+Singapore,Credit,Mobile,Entertainment,503,11,72697.51,1080.08
+Singapore,Credit,Mobile,Food,505,6,69300.19,967.58
+Singapore,Credit,Mobile,Fuel,525,10,73722.83,1576.0700000000002
+Singapore,Credit,Mobile,Groceries,509,11,75158.74,1559.6
+Singapore,Credit,Mobile,Health,530,10,79208.64,1025.07
+Singapore,Credit,Mobile,Online Services,530,2,78890.14,411.62
+Singapore,Credit,Mobile,Travel,521,9,74646.93,1806.44
+Singapore,Credit,Mobile,Utilities,487,6,67614.48,627.68
+Singapore,Credit,Terminal,Clothing,501,9,72840.11,650.7
+Singapore,Credit,Terminal,Electronics,533,7,72297.3,1528.92
+Singapore,Credit,Terminal,Entertainment,501,12,77168.9,2746.9500000000003
+Singapore,Credit,Terminal,Food,491,5,66298.12,1376.28
+Singapore,Credit,Terminal,Fuel,497,12,68290.93,1407.25
+Singapore,Credit,Terminal,Groceries,571,8,83794.95,1600.83
+Singapore,Credit,Terminal,Health,509,9,79427.83,1889.7
+Singapore,Credit,Terminal,Online Services,497,11,68799.58,2058.71
+Singapore,Credit,Terminal,Travel,499,12,76714.21,1766.19
+Singapore,Credit,Terminal,Utilities,514,11,74995.41,1682.53
+Singapore,Credit,Web,Clothing,485,9,68689.81,878.64
+Singapore,Credit,Web,Electronics,499,5,74490.31,456.11
+Singapore,Credit,Web,Entertainment,540,3,82792.01,458.59
+Singapore,Credit,Web,Food,538,7,74609.2,1260.6000000000001
+Singapore,Credit,Web,Fuel,528,6,76561.14,676.25
+Singapore,Credit,Web,Groceries,473,5,69200.85,1435.82
+Singapore,Credit,Web,Health,526,7,75100.39,500.44
+Singapore,Credit,Web,Online Services,489,5,78790.7,733.63
+Singapore,Credit,Web,Travel,511,9,78877.1,1221.39
+Singapore,Credit,Web,Utilities,479,9,70176.89,1455.96
+Singapore,Debit,Mobile,Clothing,536,5,75399.48,459.83000000000004
+Singapore,Debit,Mobile,Electronics,496,8,67095.45,964.36
+Singapore,Debit,Mobile,Entertainment,529,8,80155.81,1312.0
+Singapore,Debit,Mobile,Food,524,5,72019.73,1025.24
+Singapore,Debit,Mobile,Fuel,511,7,74195.23,1117.09
+Singapore,Debit,Mobile,Groceries,510,6,67530.08,996.75
+Singapore,Debit,Mobile,Health,518,4,77572.54,311.39
+Singapore,Debit,Mobile,Online Services,539,7,77366.11,781.44
+Singapore,Debit,Mobile,Travel,484,7,72170.78,1086.62
+Singapore,Debit,Mobile,Utilities,532,11,76940.86,2067.88
+Singapore,Debit,Terminal,Clothing,527,8,74118.29,999.44
+Singapore,Debit,Terminal,Electronics,508,9,75036.7,1350.47
+Singapore,Debit,Terminal,Entertainment,535,6,83847.24,736.37
+Singapore,Debit,Terminal,Food,498,11,69852.74,1968.98
+Singapore,Debit,Terminal,Fuel,529,15,77180.83,2025.15
+Singapore,Debit,Terminal,Groceries,496,3,70233.1,1274.8000000000002
+Singapore,Debit,Terminal,Health,563,7,82825.5,1024.1599999999999
+Singapore,Debit,Terminal,Online Services,533,8,78700.55,1150.06
+Singapore,Debit,Terminal,Travel,489,10,65040.56,1036.6
+Singapore,Debit,Terminal,Utilities,547,12,77910.62,1647.83
+Singapore,Debit,Web,Clothing,553,7,81068.69,917.6999999999999
+Singapore,Debit,Web,Electronics,534,4,76435.86,246.07
+Singapore,Debit,Web,Entertainment,524,8,74254.56,1119.3400000000001
+Singapore,Debit,Web,Food,488,5,69371.35,704.87
+Singapore,Debit,Web,Fuel,504,10,70365.96,1575.16
+Singapore,Debit,Web,Groceries,552,6,82936.92,642.92
+Singapore,Debit,Web,Health,515,4,77598.76,609.92
+Singapore,Debit,Web,Online Services,551,11,87501.36,2260.3900000000003
+Singapore,Debit,Web,Travel,520,11,73297.55,1862.02
+Singapore,Debit,Web,Utilities,507,9,71114.92,1368.18
+Singapore,Gold,Mobile,Clothing,540,8,77793.95,911.71
+Singapore,Gold,Mobile,Electronics,535,7,70847.85,1332.98
+Singapore,Gold,Mobile,Entertainment,526,7,79907.33,1728.36
+Singapore,Gold,Mobile,Food,506,4,71135.2,415.95
+Singapore,Gold,Mobile,Fuel,562,7,78567.71,1622.83
+Singapore,Gold,Mobile,Groceries,498,7,71283.85,1246.84
+Singapore,Gold,Mobile,Health,516,14,76307.69,1947.76
+Singapore,Gold,Mobile,Online Services,551,7,82474.56999999999,1902.1200000000001
+Singapore,Gold,Mobile,Travel,515,8,69063.4,1469.15
+Singapore,Gold,Mobile,Utilities,512,9,74706.23,832.79
+Singapore,Gold,Terminal,Clothing,519,4,71572.03,346.70000000000005
+Singapore,Gold,Terminal,Electronics,525,13,78446.45,1904.14
+Singapore,Gold,Terminal,Entertainment,525,13,79579.61,1420.85
+Singapore,Gold,Terminal,Food,561,7,82181.87,865.26
+Singapore,Gold,Terminal,Fuel,516,10,72637.17,1379.7
+Singapore,Gold,Terminal,Groceries,503,11,75965.93,1943.79
+Singapore,Gold,Terminal,Health,510,6,71491.24,480.45
+Singapore,Gold,Terminal,Online Services,526,9,76909.05,984.1
+Singapore,Gold,Terminal,Travel,525,5,80713.32,1573.21
+Singapore,Gold,Terminal,Utilities,545,5,84865.78,533.12
+Singapore,Gold,Web,Clothing,534,9,75399.59,1096.82
+Singapore,Gold,Web,Electronics,517,7,70467.21,627.63
+Singapore,Gold,Web,Entertainment,571,7,88405.34,1097.22
+Singapore,Gold,Web,Food,504,6,71296.13,814.56
+Singapore,Gold,Web,Fuel,534,8,73135.34,777.5600000000001
+Singapore,Gold,Web,Groceries,514,4,79833.97,846.8100000000001
+Singapore,Gold,Web,Health,523,5,70757.3,718.7
+Singapore,Gold,Web,Online Services,507,7,73837.91,876.9200000000001
+Singapore,Gold,Web,Travel,517,7,76610.23,830.61
+Singapore,Gold,Web,Utilities,539,5,77107.55,1276.73
+Singapore,Platinum,Mobile,Clothing,522,5,73768.09,631.79
+Singapore,Platinum,Mobile,Electronics,502,8,74358.06,1851.1599999999999
+Singapore,Platinum,Mobile,Entertainment,493,7,73233.02,838.05
+Singapore,Platinum,Mobile,Food,555,5,85962.4,1906.22
+Singapore,Platinum,Mobile,Fuel,518,9,72918.92,1268.05
+Singapore,Platinum,Mobile,Groceries,535,7,78436.57,355.67
+Singapore,Platinum,Mobile,Health,520,6,76614.8,764.23
+Singapore,Platinum,Mobile,Online Services,532,13,77294.74,1766.41
+Singapore,Platinum,Mobile,Travel,543,8,76253.75,604.97
+Singapore,Platinum,Mobile,Utilities,542,13,87416.17,1881.26
+Singapore,Platinum,Terminal,Clothing,507,11,77323.08,1230.97
+Singapore,Platinum,Terminal,Electronics,485,5,75362.36,664.3199999999999
+Singapore,Platinum,Terminal,Entertainment,503,7,68610.53,807.5699999999999
+Singapore,Platinum,Terminal,Food,477,8,63808.08,1488.24
+Singapore,Platinum,Terminal,Fuel,492,7,75063.53,2080.15
+Singapore,Platinum,Terminal,Groceries,513,7,73447.72,934.85
+Singapore,Platinum,Terminal,Health,524,9,81760.08,1532.07
+Singapore,Platinum,Terminal,Online Services,521,6,79473.1,672.47
+Singapore,Platinum,Terminal,Travel,503,7,72972.21,1105.86
+Singapore,Platinum,Terminal,Utilities,498,9,66074.06,1848.2
+Singapore,Platinum,Web,Clothing,480,7,70808.73,785.34
+Singapore,Platinum,Web,Electronics,556,7,83418.14,1546.5900000000001
+Singapore,Platinum,Web,Entertainment,515,9,74262.66,1933.0
+Singapore,Platinum,Web,Food,524,7,76126.2,1066.24
+Singapore,Platinum,Web,Fuel,525,7,73869.23,1281.92
+Singapore,Platinum,Web,Groceries,558,6,81394.56,806.01
+Singapore,Platinum,Web,Health,533,4,83088.69,1567.23
+Singapore,Platinum,Web,Online Services,500,12,69575.8,1596.1599999999999
+Singapore,Platinum,Web,Travel,490,9,76437.04,1377.07
+Singapore,Platinum,Web,Utilities,529,10,79774.2,866.91
+UK,Credit,Mobile,Clothing,508,10,72148.82,1045.67
+UK,Credit,Mobile,Electronics,565,12,79450.53,874.8199999999999
+UK,Credit,Mobile,Entertainment,564,6,76774.74,439.47
+UK,Credit,Mobile,Food,492,8,68571.64,1156.72
+UK,Credit,Mobile,Fuel,491,5,74578.24,941.13
+UK,Credit,Mobile,Groceries,544,8,78264.13,2065.9900000000002
+UK,Credit,Mobile,Health,541,5,83270.04,580.27
+UK,Credit,Mobile,Online Services,543,12,80566.56,1645.52
+UK,Credit,Mobile,Travel,548,6,75007.4,930.1
+UK,Credit,Mobile,Utilities,550,7,81445.32,1036.62
+UK,Credit,Terminal,Clothing,523,12,78602.39,1260.86
+UK,Credit,Terminal,Electronics,552,8,78258.47,790.6
+UK,Credit,Terminal,Entertainment,514,11,81350.51,2407.8
+UK,Credit,Terminal,Food,494,5,67603.16,307.53999999999996
+UK,Credit,Terminal,Fuel,518,7,75280.19,826.06
+UK,Credit,Terminal,Groceries,536,9,81086.75,1252.66
+UK,Credit,Terminal,Health,523,13,81881.25,1935.11
+UK,Credit,Terminal,Online Services,528,10,79416.02,1931.69
+UK,Credit,Terminal,Travel,508,6,71345.16,714.4399999999999
+UK,Credit,Terminal,Utilities,512,6,77557.59,1145.91
+UK,Credit,Web,Clothing,541,8,78473.96,1385.05
+UK,Credit,Web,Electronics,567,7,81111.19,864.6
+UK,Credit,Web,Entertainment,518,7,74537.5,974.08
+UK,Credit,Web,Food,539,8,80041.09,1598.6699999999998
+UK,Credit,Web,Fuel,507,11,71133.19,1095.51
+UK,Credit,Web,Groceries,505,14,77526.43,2911.52
+UK,Credit,Web,Health,531,9,73807.95,1231.11
+UK,Credit,Web,Online Services,530,6,75736.23,577.39
+UK,Credit,Web,Travel,483,8,76111.72,916.33
+UK,Credit,Web,Utilities,484,12,75925.1,1696.94
+UK,Debit,Mobile,Clothing,547,4,80120.48,552.8000000000001
+UK,Debit,Mobile,Electronics,495,7,74491.52,696.98
+UK,Debit,Mobile,Entertainment,554,9,78855.01,904.15
+UK,Debit,Mobile,Food,511,5,73546.63,500.97
+UK,Debit,Mobile,Fuel,531,3,81556.04,816.12
+UK,Debit,Mobile,Groceries,551,9,81031.2,994.86
+UK,Debit,Mobile,Health,516,5,71596.46,1015.09
+UK,Debit,Mobile,Online Services,530,11,79053.97,2139.81
+UK,Debit,Mobile,Travel,495,9,75913.23,946.06
+UK,Debit,Mobile,Utilities,541,8,76079.87,1245.93
+UK,Debit,Terminal,Clothing,511,7,73100.51,1356.78
+UK,Debit,Terminal,Electronics,550,11,83359.96,1639.8799999999999
+UK,Debit,Terminal,Entertainment,532,9,74366.73,1156.43
+UK,Debit,Terminal,Food,496,6,72314.74,407.52
+UK,Debit,Terminal,Fuel,539,7,79641.13,907.21
+UK,Debit,Terminal,Groceries,563,5,79852.37,952.0899999999999
+UK,Debit,Terminal,Health,511,1,71205.68,39.44
+UK,Debit,Terminal,Online Services,481,6,69574.14,1177.9
+UK,Debit,Terminal,Travel,512,12,72202.25,2329.37
+UK,Debit,Terminal,Utilities,481,5,70823.51,568.63
+UK,Debit,Web,Clothing,549,16,86049.2,1832.45
+UK,Debit,Web,Electronics,527,9,82344.34,886.12
+UK,Debit,Web,Entertainment,520,6,75065.29,765.5600000000001
+UK,Debit,Web,Food,508,11,75289.37,1615.76
+UK,Debit,Web,Fuel,550,5,82348.81,831.4
+UK,Debit,Web,Groceries,524,8,79264.84,1400.92
+UK,Debit,Web,Health,481,9,72361.59,1135.72
+UK,Debit,Web,Online Services,555,7,78896.45,743.91
+UK,Debit,Web,Travel,503,11,70700.05,1552.85
+UK,Debit,Web,Utilities,496,11,73696.59,879.52
+UK,Gold,Mobile,Clothing,512,6,78234.4,1329.69
+UK,Gold,Mobile,Electronics,564,7,81778.09,1890.4899999999998
+UK,Gold,Mobile,Entertainment,515,10,76106.62,1615.25
+UK,Gold,Mobile,Food,479,4,68192.59,469.0
+UK,Gold,Mobile,Fuel,536,8,79235.93,1526.45
+UK,Gold,Mobile,Groceries,513,7,78370.5,737.53
+UK,Gold,Mobile,Health,538,5,78351.24,339.14
+UK,Gold,Mobile,Online Services,535,9,81916.11,804.41
+UK,Gold,Mobile,Travel,548,15,80835.22,1981.07
+UK,Gold,Mobile,Utilities,494,6,69684.01,557.79
+UK,Gold,Terminal,Clothing,555,5,80307.4,842.98
+UK,Gold,Terminal,Electronics,525,8,77172.83,865.81
+UK,Gold,Terminal,Entertainment,491,13,68507.57,1688.5800000000002
+UK,Gold,Terminal,Food,526,9,79630.1,1098.17
+UK,Gold,Terminal,Fuel,530,6,78559.22,386.5
+UK,Gold,Terminal,Groceries,550,14,83208.22,2270.54
+UK,Gold,Terminal,Health,519,5,75223.49,1091.08
+UK,Gold,Terminal,Online Services,479,10,72218.84,1361.73
+UK,Gold,Terminal,Travel,446,3,64679.31,320.05
+UK,Gold,Terminal,Utilities,510,8,69731.54,998.3100000000001
+UK,Gold,Web,Clothing,532,5,77850.96,1643.98
+UK,Gold,Web,Electronics,509,6,73060.06,1277.87
+UK,Gold,Web,Entertainment,483,5,70081.9,1098.8899999999999
+UK,Gold,Web,Food,521,8,75690.47,1393.31
+UK,Gold,Web,Fuel,525,10,77961.43000000001,1856.2
+UK,Gold,Web,Groceries,514,9,70255.74,1199.3600000000001
+UK,Gold,Web,Health,487,8,70369.05,849.1
+UK,Gold,Web,Online Services,502,9,77191.59,2123.14
+UK,Gold,Web,Travel,518,8,78253.91,1065.37
+UK,Gold,Web,Utilities,558,7,81305.33,888.36
+UK,Platinum,Mobile,Clothing,521,8,72585.55,1120.83
+UK,Platinum,Mobile,Electronics,535,6,77725.26,941.9599999999999
+UK,Platinum,Mobile,Entertainment,520,8,79247.29,991.85
+UK,Platinum,Mobile,Food,511,9,68789.09,1064.52
+UK,Platinum,Mobile,Fuel,543,8,76596.26,605.52
+UK,Platinum,Mobile,Groceries,519,8,78091.15,1373.1
+UK,Platinum,Mobile,Health,565,12,79411.92,1819.98
+UK,Platinum,Mobile,Online Services,511,11,73887.58,1659.04
+UK,Platinum,Mobile,Travel,540,6,78202.67,1578.3700000000001
+UK,Platinum,Mobile,Utilities,548,10,76417.9,1416.86
+UK,Platinum,Terminal,Clothing,540,14,78471.27,1328.63
+UK,Platinum,Terminal,Electronics,529,9,73465.37,2330.29
+UK,Platinum,Terminal,Entertainment,507,11,70759.06,1107.29
+UK,Platinum,Terminal,Food,517,7,75284.77,1245.22
+UK,Platinum,Terminal,Fuel,518,14,77804.7,1800.51
+UK,Platinum,Terminal,Groceries,541,11,81144.54,1667.8
+UK,Platinum,Terminal,Health,496,7,72588.46,714.1800000000001
+UK,Platinum,Terminal,Online Services,591,3,91713.39,470.02000000000004
+UK,Platinum,Terminal,Travel,497,10,66020.55,1550.91
+UK,Platinum,Terminal,Utilities,525,9,71072.31,1372.38
+UK,Platinum,Web,Clothing,539,6,76561.24,1150.6499999999999
+UK,Platinum,Web,Electronics,546,7,79951.82,1088.12
+UK,Platinum,Web,Entertainment,488,7,71765.83,808.24
+UK,Platinum,Web,Food,574,6,84958.42,1191.94
+UK,Platinum,Web,Fuel,558,3,83354.57,342.62
+UK,Platinum,Web,Groceries,503,7,72533.92,1347.02
+UK,Platinum,Web,Health,533,13,72793.97,897.5
+UK,Platinum,Web,Online Services,520,7,72808.85,661.56
+UK,Platinum,Web,Travel,514,13,77959.25,2123.67
+UK,Platinum,Web,Utilities,510,7,73496.64,960.6700000000001
+USA,Credit,Mobile,Clothing,533,7,79553.03,929.51
+USA,Credit,Mobile,Electronics,528,8,75889.58,1387.0
+USA,Credit,Mobile,Entertainment,535,5,79457.01,944.1
+USA,Credit,Mobile,Food,494,6,69618.3,453.02
+USA,Credit,Mobile,Fuel,531,5,74314.53,474.75
+USA,Credit,Mobile,Groceries,519,12,71598.09,1404.04
+USA,Credit,Mobile,Health,509,7,72255.06,946.25
+USA,Credit,Mobile,Online Services,518,8,78775.74,870.04
+USA,Credit,Mobile,Travel,493,3,72379.69,252.3
+USA,Credit,Mobile,Utilities,510,11,79908.34,1490.4
+USA,Credit,Terminal,Clothing,510,12,73887.07,1661.24
+USA,Credit,Terminal,Electronics,519,10,81499.65,2467.57
+USA,Credit,Terminal,Entertainment,484,7,67177.81,1174.15
+USA,Credit,Terminal,Food,518,6,73830.82,609.1
+USA,Credit,Terminal,Fuel,472,5,69908.87,1245.36
+USA,Credit,Terminal,Groceries,533,4,73653.98,216.92
+USA,Credit,Terminal,Health,515,6,75020.32,959.49
+USA,Credit,Terminal,Online Services,525,9,72213.91,1030.47
+USA,Credit,Terminal,Travel,542,10,78899.93,1093.1
+USA,Credit,Terminal,Utilities,516,4,76196.25,478.5
+USA,Credit,Web,Clothing,483,8,66782.35,758.98
+USA,Credit,Web,Electronics,538,6,77579.48,673.0899999999999
+USA,Credit,Web,Entertainment,548,7,77841.94,1022.86
+USA,Credit,Web,Food,480,7,70221.93,721.5600000000001
+USA,Credit,Web,Fuel,566,7,82173.47,1171.2
+USA,Credit,Web,Groceries,556,7,78482.32,537.96
+USA,Credit,Web,Health,523,14,80395.87,2096.82
+USA,Credit,Web,Online Services,489,3,74061.81,369.37
+USA,Credit,Web,Travel,536,4,73955.85,680.51
+USA,Credit,Web,Utilities,541,5,78088.23,581.37
+USA,Debit,Mobile,Clothing,487,7,71485.54,952.78
+USA,Debit,Mobile,Electronics,492,8,73298.85,1612.38
+USA,Debit,Mobile,Entertainment,508,7,71721.29,732.85
+USA,Debit,Mobile,Food,514,10,75872.31999999999,1266.87
+USA,Debit,Mobile,Fuel,490,10,73252.45,2168.5
+USA,Debit,Mobile,Groceries,519,10,75534.81,1777.74
+USA,Debit,Mobile,Health,515,13,80828.43,3015.91
+USA,Debit,Mobile,Online Services,533,8,76153.0,1463.3200000000002
+USA,Debit,Mobile,Travel,506,12,70803.7,1647.45
+USA,Debit,Mobile,Utilities,536,10,80094.22,1289.97
+USA,Debit,Terminal,Clothing,530,2,82386.89,392.09000000000003
+USA,Debit,Terminal,Electronics,556,8,82480.9,900.09
+USA,Debit,Terminal,Entertainment,538,4,72957.81,551.13
+USA,Debit,Terminal,Food,518,7,73895.27,1234.87
+USA,Debit,Terminal,Fuel,518,7,71355.59,1358.6699999999998
+USA,Debit,Terminal,Groceries,489,6,75402.82,869.9200000000001
+USA,Debit,Terminal,Health,504,9,70775.4,1136.7
+USA,Debit,Terminal,Online Services,515,12,77130.89,1574.4
+USA,Debit,Terminal,Travel,513,5,75451.12,1604.95
+USA,Debit,Terminal,Utilities,483,5,67637.4,768.9499999999999
+USA,Debit,Web,Clothing,517,8,70918.63,1368.75
+USA,Debit,Web,Electronics,512,8,77260.45,1422.17
+USA,Debit,Web,Entertainment,519,10,78723.17,1440.81
+USA,Debit,Web,Food,572,9,88281.35,1279.72
+USA,Debit,Web,Fuel,528,6,74638.17,1109.88
+USA,Debit,Web,Groceries,531,5,82621.46,774.9100000000001
+USA,Debit,Web,Health,545,9,77325.75,1175.8600000000001
+USA,Debit,Web,Online Services,500,6,73926.42,1084.35
+USA,Debit,Web,Travel,509,10,70457.55,1055.26
+USA,Debit,Web,Utilities,514,9,71082.59,1135.29
+USA,Gold,Mobile,Clothing,521,7,74248.34,830.49
+USA,Gold,Mobile,Electronics,541,8,74044.17,1214.95
+USA,Gold,Mobile,Entertainment,493,10,75373.94,1100.54
+USA,Gold,Mobile,Food,487,5,66903.78,955.67
+USA,Gold,Mobile,Fuel,564,6,84334.45,809.4100000000001
+USA,Gold,Mobile,Groceries,499,7,72515.48,1106.96
+USA,Gold,Mobile,Health,525,5,78272.3,837.95
+USA,Gold,Mobile,Online Services,499,10,75423.51,2023.79
+USA,Gold,Mobile,Travel,540,6,75177.48,802.88
+USA,Gold,Mobile,Utilities,520,14,73340.21,2064.79
+USA,Gold,Terminal,Clothing,513,3,71974.47,287.88
+USA,Gold,Terminal,Electronics,497,5,71537.74,558.1800000000001
+USA,Gold,Terminal,Entertainment,520,8,74167.92,815.66
+USA,Gold,Terminal,Food,536,9,75544.92,895.57
+USA,Gold,Terminal,Fuel,515,4,73652.98,552.89
+USA,Gold,Terminal,Groceries,553,6,77884.24,849.8399999999999
+USA,Gold,Terminal,Health,533,3,78419.09,503.40999999999997
+USA,Gold,Terminal,Online Services,534,11,76906.83,1106.21
+USA,Gold,Terminal,Travel,533,4,78179.28,353.95
+USA,Gold,Terminal,Utilities,527,9,76033.41,1263.63
+USA,Gold,Web,Clothing,560,6,80280.66,1903.3100000000002
+USA,Gold,Web,Electronics,492,12,68275.86,1086.3600000000001
+USA,Gold,Web,Entertainment,555,4,80868.14,753.94
+USA,Gold,Web,Food,494,6,72512.98,785.08
+USA,Gold,Web,Fuel,496,9,70069.99,872.62
+USA,Gold,Web,Groceries,525,6,77722.51,992.8100000000001
+USA,Gold,Web,Health,529,10,77180.48,1616.74
+USA,Gold,Web,Online Services,506,11,68491.98,1323.96
+USA,Gold,Web,Travel,530,8,79399.35,959.74
+USA,Gold,Web,Utilities,498,4,76400.32,281.77
+USA,Platinum,Mobile,Clothing,487,5,72653.64,1076.97
+USA,Platinum,Mobile,Electronics,523,6,75405.55,1100.1799999999998
+USA,Platinum,Mobile,Entertainment,491,6,75870.93,761.6600000000001
+USA,Platinum,Mobile,Food,535,5,77138.45,547.78
+USA,Platinum,Mobile,Fuel,500,9,73250.41,1408.95
+USA,Platinum,Mobile,Groceries,527,6,78419.5,1844.8899999999999
+USA,Platinum,Mobile,Health,527,5,74352.36,474.34000000000003
+USA,Platinum,Mobile,Online Services,520,4,75582.26,498.22
+USA,Platinum,Mobile,Travel,516,7,77182.72,794.33
+USA,Platinum,Mobile,Utilities,553,9,81959.54,1235.55
+USA,Platinum,Terminal,Clothing,522,11,69757.33,1169.45
+USA,Platinum,Terminal,Electronics,540,10,80053.55,1146.34
+USA,Platinum,Terminal,Entertainment,476,5,74265.95,1015.13
+USA,Platinum,Terminal,Food,507,5,71453.85,1465.48
+USA,Platinum,Terminal,Fuel,547,8,79621.85,819.38
+USA,Platinum,Terminal,Groceries,562,6,77802.01,582.92
+USA,Platinum,Terminal,Health,530,5,76313.16,732.17
+USA,Platinum,Terminal,Online Services,506,9,73351.29,1501.24
+USA,Platinum,Terminal,Travel,561,8,82075.27,1240.03
+USA,Platinum,Terminal,Utilities,490,3,69711.57,204.25
+USA,Platinum,Web,Clothing,531,9,78427.13,1664.99
+USA,Platinum,Web,Electronics,537,10,80448.68000000001,1480.35
+USA,Platinum,Web,Entertainment,525,5,69823.72,878.03
+USA,Platinum,Web,Food,525,10,74811.65,1222.25
+USA,Platinum,Web,Fuel,511,10,74818.28,1027.47
+USA,Platinum,Web,Groceries,486,4,72637.13,436.87
+USA,Platinum,Web,Health,507,7,73820.51,1605.8600000000001
+USA,Platinum,Web,Online Services,512,12,74252.59,2132.2599999999998
+USA,Platinum,Web,Travel,518,9,78006.69,1759.71
+USA,Platinum,Web,Utilities,484,6,68592.42,835.99

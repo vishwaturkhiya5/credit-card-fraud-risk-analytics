@@ -1,0 +1,101 @@
+Transaction_ID,Customer_ID,Transaction_Date,Amount,Merchant_Category,Merchant_ID,Card_Type,Transaction_Type,Country,Is_International,Is_Chip,Is_Pin_Used,Distance_From_Home,Hour_of_Day,Device_Type,Fraud_Flag,Card_Presence,Authentication_Method,Month,Week_Start,Day_of_Week,Fraud_Amount,High_Value_Flag,Far_From_Home_Flag,Off_Hours_Flag
+287159,52046,2024-09-24 14:37:00,1040.87,Online Services,8680,Credit,Online,France,0,1,1,2.07,14,Web,1,Card-Not-Present,Chip + PIN,2024-09,2024-09-23,Tuesday,1040.87,1,0,0
+4461,79166,2025-01-03 23:16:00,1015.58,Travel,3033,Gold,ATM,Singapore,0,0,0,2.69,23,Terminal,1,Card-Present,Neither chip nor PIN,2025-01,2024-12-30,Friday,1015.58,1,0,0
+43076,29982,2024-04-20 12:18:00,1011.68,Travel,5441,Gold,ATM,India,0,0,0,4.61,12,Terminal,1,Card-Present,Neither chip nor PIN,2024-04,2024-04-15,Saturday,1011.68,1,0,0
+382271,10295,2024-03-10 17:09:00,966.87,Clothing,8428,Gold,Online,Australia,0,0,1,1.31,17,Terminal,1,Card-Not-Present,PIN only,2024-03,2024-03-04,Sunday,966.87,1,0,0
+323422,68022,2025-09-12 16:00:00,942.4,Food,1604,Gold,ATM,Australia,0,0,0,3.43,16,Terminal,1,Card-Present,Neither chip nor PIN,2025-09,2025-09-08,Friday,942.4,1,0,0
+433015,48454,2024-10-01 20:32:00,940.23,Groceries,5894,Credit,POS,UK,0,0,0,39.77,20,Mobile,1,Card-Present,Neither chip nor PIN,2024-10,2024-09-30,Tuesday,940.23,1,1,0
+368605,91216,2025-01-23 19:50:00,937.17,Utilities,8754,Gold,POS,Singapore,0,0,0,0.8,19,Web,1,Card-Present,Neither chip nor PIN,2025-01,2025-01-20,Thursday,937.17,1,0,0
+487638,71051,2024-05-26 08:37:00,926.28,Electronics,7415,Platinum,Online,UK,0,0,0,6.89,8,Terminal,1,Card-Not-Present,Neither chip nor PIN,2024-05,2024-05-20,Sunday,926.28,1,0,0
+440236,18356,2024-11-15 08:30:00,915.02,Fuel,8477,Credit,Online,India,0,1,0,3.64,8,Terminal,1,Card-Not-Present,Chip only,2024-11,2024-11-11,Friday,915.02,1,0,0
+139327,29789,2024-10-23 07:13:00,894.98,Food,2827,Debit,ATM,Singapore,0,0,0,6.98,7,Terminal,1,Card-Present,Neither chip nor PIN,2024-10,2024-10-21,Wednesday,894.98,1,0,0
+111794,41002,2024-10-04 22:40:00,872.77,Clothing,5976,Gold,ATM,USA,0,0,0,5.15,22,Web,1,Card-Present,Neither chip nor PIN,2024-10,2024-09-30,Friday,872.77,1,0,0
+80594,91213,2024-08-14 14:36:00,863.35,Food,2889,Platinum,POS,Australia,0,0,0,5.16,14,Terminal,1,Card-Present,Neither chip nor PIN,2024-08,2024-08-12,Wednesday,863.35,1,0,0
+351542,44129,2024-01-11 11:14:00,832.29,Electronics,1431,Platinum,Online,Singapore,0,1,0,2.92,11,Mobile,1,Card-Not-Present,Chip only,2024-01,2024-01-08,Thursday,832.29,1,0,0
+251719,84202,2025-01-02 14:54:00,816.87,Health,3320,Platinum,POS,Australia,0,1,0,4.93,14,Web,1,Card-Present,Chip only,2025-01,2024-12-30,Thursday,816.87,1,0,0
+282227,85491,2024-09-10 06:05:00,805.66,Groceries,6567,Gold,Online,Germany,0,0,0,0.04,6,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-09,2024-09-09,Tuesday,805.66,1,0,0
+356555,54829,2025-03-16 04:46:00,804.61,Fuel,7461,Debit,POS,USA,0,0,1,0.74,4,Mobile,1,Card-Present,PIN only,2025-03,2025-03-10,Sunday,804.61,1,0,1
+296134,24744,2025-05-27 05:31:00,801.83,Groceries,2579,Credit,POS,Singapore,1,1,0,3.38,5,Terminal,1,Card-Present,Chip only,2025-05,2025-05-26,Tuesday,801.83,1,0,1
+18363,84888,2025-05-23 19:51:00,800.11,Travel,2093,Debit,Online,UK,1,0,1,12.83,19,Terminal,1,Card-Not-Present,PIN only,2025-05,2025-05-19,Friday,800.11,1,0,0
+333165,99144,2024-05-07 12:19:00,791.7,Travel,8282,Credit,ATM,France,0,1,1,15.16,12,Terminal,1,Card-Present,Chip + PIN,2024-05,2024-05-06,Tuesday,791.7,1,0,0
+208892,28857,2024-03-26 11:26:00,787.63,Food,3406,Credit,Online,Singapore,0,0,0,1.14,11,Terminal,1,Card-Not-Present,Neither chip nor PIN,2024-03,2024-03-25,Tuesday,787.63,1,0,0
+50046,28665,2025-05-10 01:21:00,769.21,Online Services,2123,Gold,Online,Singapore,0,0,1,1.81,1,Mobile,1,Card-Not-Present,PIN only,2025-05,2025-05-05,Saturday,769.21,1,0,1
+384285,64190,2024-12-03 12:06:00,764.44,Clothing,4617,Gold,Online,India,0,0,0,1.4,12,Web,1,Card-Not-Present,Neither chip nor PIN,2024-12,2024-12-02,Tuesday,764.44,1,0,0
+33243,15623,2024-05-11 23:19:00,759.1,Clothing,2961,Gold,ATM,UK,1,0,1,3.01,23,Mobile,1,Card-Present,PIN only,2024-05,2024-05-06,Saturday,759.1,1,0,0
+345320,12686,2024-07-03 09:44:00,757.61,Groceries,4779,Platinum,Online,USA,0,1,0,3.92,9,Mobile,1,Card-Not-Present,Chip only,2024-07,2024-07-01,Wednesday,757.61,1,0,0
+188780,42402,2025-01-01 12:06:00,756.46,Groceries,7234,Debit,POS,Singapore,0,0,0,1.3,12,Terminal,1,Card-Present,Neither chip nor PIN,2025-01,2024-12-30,Wednesday,756.46,1,0,0
+475172,96023,2025-08-24 19:51:00,741.0,Electronics,4428,Debit,ATM,France,0,0,0,2.33,19,Mobile,1,Card-Present,Neither chip nor PIN,2025-08,2025-08-18,Sunday,741.0,1,0,0
+314566,71942,2024-06-27 00:32:00,740.11,Online Services,2042,Gold,ATM,UK,0,0,0,0.03,0,Web,1,Card-Present,Neither chip nor PIN,2024-06,2024-06-24,Thursday,740.11,1,0,1
+120941,40666,2024-06-24 17:36:00,739.81,Entertainment,7821,Credit,POS,Canada,0,0,0,14.0,17,Mobile,1,Card-Present,Neither chip nor PIN,2024-06,2024-06-24,Monday,739.81,1,0,0
+152443,38719,2024-12-04 04:46:00,735.92,Electronics,3755,Credit,Online,USA,0,1,1,2.81,4,Mobile,1,Card-Not-Present,Chip + PIN,2024-12,2024-12-02,Wednesday,735.92,1,0,1
+21124,61697,2024-12-08 00:08:00,734.46,Health,4990,Debit,Online,USA,0,0,0,3.98,0,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-12,2024-12-02,Sunday,734.46,1,0,1
+109278,29449,2025-05-02 09:26:00,732.4,Entertainment,4346,Gold,POS,Germany,0,0,0,6.32,9,Web,1,Card-Present,Neither chip nor PIN,2025-05,2025-04-28,Friday,732.4,1,0,0
+82653,64297,2024-05-30 10:55:00,730.72,Utilities,3746,Platinum,ATM,Germany,1,0,1,0.66,10,Web,1,Card-Present,PIN only,2024-05,2024-05-27,Thursday,730.72,1,0,0
+144202,16793,2025-09-13 13:07:00,724.95,Fuel,3643,Platinum,POS,Canada,0,0,0,4.11,13,Mobile,1,Card-Present,Neither chip nor PIN,2025-09,2025-09-08,Saturday,724.95,1,0,0
+417238,60762,2024-03-17 21:06:00,720.48,Travel,2314,Debit,ATM,USA,0,0,0,5.33,21,Terminal,1,Card-Present,Neither chip nor PIN,2024-03,2024-03-11,Sunday,720.48,1,0,0
+94863,68376,2024-12-30 12:28:00,711.64,Clothing,6377,Platinum,Online,France,0,1,0,4.08,12,Web,1,Card-Not-Present,Chip only,2024-12,2024-12-30,Monday,711.64,1,0,0
+222795,79619,2024-01-31 13:02:00,708.12,Food,8132,Platinum,ATM,Singapore,0,0,0,0.69,13,Mobile,1,Card-Present,Neither chip nor PIN,2024-01,2024-01-29,Wednesday,708.12,1,0,0
+455863,28620,2025-05-26 02:40:00,707.03,Travel,1454,Platinum,POS,USA,0,0,0,10.93,2,Web,1,Card-Present,Neither chip nor PIN,2025-05,2025-05-26,Monday,707.03,1,0,1
+118316,45459,2024-02-03 03:43:00,703.85,Health,4536,Platinum,ATM,Singapore,1,0,0,4.23,3,Web,1,Card-Present,Neither chip nor PIN,2024-02,2024-01-29,Saturday,703.85,1,0,1
+23226,33696,2025-02-08 02:32:00,701.28,Groceries,1961,Platinum,POS,India,1,0,0,0.02,2,Terminal,1,Card-Present,Neither chip nor PIN,2025-02,2025-02-03,Saturday,701.28,1,0,1
+286810,65201,2024-12-17 04:59:00,691.28,Utilities,5006,Debit,ATM,Singapore,0,1,0,0.47,4,Mobile,1,Card-Present,Chip only,2024-12,2024-12-16,Tuesday,691.28,1,0,1
+26767,60064,2024-01-30 04:37:00,684.54,Food,5378,Debit,ATM,Australia,0,0,0,10.18,4,Mobile,1,Card-Present,Neither chip nor PIN,2024-01,2024-01-29,Tuesday,684.54,1,0,1
+416019,40489,2024-08-09 15:18:00,680.28,Electronics,9169,Debit,POS,UK,0,0,0,0.75,15,Terminal,1,Card-Present,Neither chip nor PIN,2024-08,2024-08-05,Friday,680.28,1,0,0
+469010,62427,2024-03-11 18:13:00,673.12,Clothing,9738,Gold,POS,UK,0,0,1,1.7,18,Web,1,Card-Present,PIN only,2024-03,2024-03-11,Monday,673.12,1,0,0
+26960,40246,2024-05-15 16:17:00,672.73,Entertainment,6449,Gold,Online,Singapore,1,0,0,1.69,16,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-05,2024-05-13,Wednesday,672.73,1,0,0
+406620,14642,2024-02-17 16:02:00,671.62,Food,6663,Credit,ATM,Germany,0,1,0,18.2,16,Terminal,1,Card-Present,Chip only,2024-02,2024-02-12,Saturday,671.62,1,0,0
+436148,23985,2024-05-03 16:34:00,667.2,Clothing,5627,Debit,POS,India,0,1,0,2.74,16,Terminal,1,Card-Present,Chip only,2024-05,2024-04-29,Friday,667.2,1,0,0
+8765,93656,2025-01-29 06:44:00,666.62,Food,5612,Debit,POS,India,0,1,0,11.28,6,Mobile,1,Card-Present,Chip only,2025-01,2025-01-27,Wednesday,666.62,1,0,0
+244155,56150,2024-02-11 13:22:00,664.81,Electronics,8276,Credit,Online,Germany,0,1,0,2.83,13,Web,1,Card-Not-Present,Chip only,2024-02,2024-02-05,Sunday,664.81,1,0,0
+144203,37803,2024-12-11 19:45:00,661.34,Entertainment,8199,Credit,Online,Singapore,0,0,1,4.93,19,Terminal,1,Card-Not-Present,PIN only,2024-12,2024-12-09,Wednesday,661.34,1,0,0
+489277,91497,2025-04-04 01:23:00,659.07,Travel,7807,Credit,Online,India,0,0,0,13.32,1,Mobile,1,Card-Not-Present,Neither chip nor PIN,2025-04,2025-03-31,Friday,659.07,1,0,1
+279696,53979,2025-09-21 18:12:00,654.6,Clothing,3023,Gold,ATM,France,1,0,0,2.18,18,Mobile,1,Card-Present,Neither chip nor PIN,2025-09,2025-09-15,Sunday,654.6,1,0,0
+364326,44293,2024-01-01 03:23:00,651.99,Groceries,9241,Debit,POS,Australia,0,0,1,11.81,3,Web,1,Card-Present,PIN only,2024-01,2024-01-01,Monday,651.99,1,0,1
+98964,10449,2025-06-08 03:02:00,650.37,Entertainment,6914,Credit,Online,USA,1,0,0,13.44,3,Web,1,Card-Not-Present,Neither chip nor PIN,2025-06,2025-06-02,Sunday,650.37,1,0,1
+345457,76389,2025-09-02 09:52:00,649.1,Groceries,4013,Credit,ATM,UK,0,0,1,4.84,9,Web,1,Card-Present,PIN only,2025-09,2025-09-01,Tuesday,649.1,1,0,0
+323404,35175,2024-04-07 07:11:00,647.06,Electronics,5918,Gold,Online,UK,0,0,0,7.53,7,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-04,2024-04-01,Sunday,647.06,1,0,0
+85596,69163,2024-03-22 14:22:00,646.96,Entertainment,8021,Credit,Online,Canada,1,0,0,0.72,14,Web,1,Card-Not-Present,Neither chip nor PIN,2024-03,2024-03-18,Friday,646.96,1,0,0
+384454,31879,2024-12-15 08:27:00,646.43,Food,6652,Platinum,POS,USA,0,0,1,1.39,8,Terminal,1,Card-Present,PIN only,2024-12,2024-12-09,Sunday,646.43,1,0,0
+133767,90008,2025-05-15 22:39:00,644.8,Groceries,3265,Credit,Online,France,1,0,1,7.93,22,Web,1,Card-Not-Present,PIN only,2025-05,2025-05-12,Thursday,644.8,1,0,0
+219997,70704,2025-09-15 20:53:00,640.25,Groceries,6112,Platinum,Online,France,1,0,0,8.07,20,Mobile,1,Card-Not-Present,Neither chip nor PIN,2025-09,2025-09-15,Monday,640.25,1,0,0
+152043,53328,2024-09-24 02:29:00,639.92,Fuel,6580,Platinum,POS,Singapore,0,0,0,10.35,2,Terminal,1,Card-Present,Neither chip nor PIN,2024-09,2024-09-23,Tuesday,639.92,1,0,1
+261075,74519,2024-05-08 23:44:00,637.52,Health,7929,Debit,ATM,Australia,1,0,0,8.03,23,Terminal,1,Card-Present,Neither chip nor PIN,2024-05,2024-05-06,Wednesday,637.52,1,0,0
+287085,11048,2025-01-20 17:28:00,633.61,Health,8488,Debit,POS,USA,1,0,0,6.32,17,Mobile,1,Card-Present,Neither chip nor PIN,2025-01,2025-01-20,Monday,633.61,1,0,0
+179365,45280,2024-06-26 07:24:00,632.44,Electronics,8178,Credit,Online,Singapore,0,0,0,11.69,7,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-06,2024-06-24,Wednesday,632.44,1,0,0
+54931,95401,2025-02-02 12:14:00,632.31,Groceries,9113,Platinum,POS,India,0,1,0,13.04,12,Web,1,Card-Present,Chip only,2025-02,2025-01-27,Sunday,632.31,1,0,0
+12944,56947,2024-05-25 12:51:00,631.82,Clothing,2083,Gold,POS,USA,1,0,0,1.95,12,Web,1,Card-Present,Neither chip nor PIN,2024-05,2024-05-20,Saturday,631.82,1,0,0
+334806,98159,2025-05-14 16:32:00,630.12,Electronics,2846,Credit,POS,France,0,1,0,3.99,16,Mobile,1,Card-Present,Chip only,2025-05,2025-05-12,Wednesday,630.12,1,0,0
+360063,65469,2025-01-26 22:56:00,627.7,Food,9509,Credit,Online,India,0,1,0,1.88,22,Mobile,1,Card-Not-Present,Chip only,2025-01,2025-01-20,Sunday,627.7,1,0,0
+230051,70048,2024-08-01 12:49:00,622.63,Health,9148,Debit,Online,India,0,0,1,3.34,12,Terminal,1,Card-Not-Present,PIN only,2024-08,2024-07-29,Thursday,622.63,1,0,0
+101881,91840,2024-10-01 22:46:00,622.36,Entertainment,2703,Debit,ATM,Australia,0,1,1,0.01,22,Terminal,1,Card-Present,Chip + PIN,2024-10,2024-09-30,Tuesday,622.36,1,0,0
+352548,57476,2024-10-18 00:44:00,621.25,Electronics,6642,Gold,ATM,France,1,0,0,8.86,0,Mobile,1,Card-Present,Neither chip nor PIN,2024-10,2024-10-14,Friday,621.25,1,0,1
+80445,37879,2025-04-10 22:03:00,621.24,Fuel,7322,Debit,POS,USA,0,0,0,6.04,22,Mobile,1,Card-Present,Neither chip nor PIN,2025-04,2025-04-07,Thursday,621.24,1,0,0
+140224,96631,2025-06-08 23:30:00,619.69,Entertainment,9482,Gold,POS,UK,0,0,0,4.12,23,Terminal,1,Card-Present,Neither chip nor PIN,2025-06,2025-06-02,Sunday,619.69,1,0,0
+291899,88321,2024-05-17 04:24:00,619.36,Clothing,9143,Platinum,ATM,USA,0,0,0,6.6,4,Web,1,Card-Present,Neither chip nor PIN,2024-05,2024-05-13,Friday,619.36,1,0,1
+371178,56037,2024-04-23 21:17:00,618.57,Fuel,1927,Platinum,POS,Singapore,0,0,0,11.63,21,Terminal,1,Card-Present,Neither chip nor PIN,2024-04,2024-04-22,Tuesday,618.57,1,0,0
+354148,76221,2024-01-12 02:12:00,618.05,Utilities,2162,Gold,ATM,Canada,1,1,0,2.37,2,Terminal,1,Card-Present,Chip only,2024-01,2024-01-08,Friday,618.05,1,0,1
+346231,60638,2025-05-28 18:44:00,617.94,Fuel,1776,Credit,POS,Australia,0,0,0,11.65,18,Mobile,1,Card-Present,Neither chip nor PIN,2025-05,2025-05-26,Wednesday,617.94,1,0,0
+419354,70519,2024-05-22 17:36:00,615.12,Online Services,7963,Platinum,Online,Singapore,0,0,0,6.49,17,Mobile,1,Card-Not-Present,Neither chip nor PIN,2024-05,2024-05-20,Wednesday,615.12,1,0,0
+379113,75945,2025-04-25 09:06:00,613.51,Travel,4518,Debit,Online,Germany,0,1,1,1.49,9,Mobile,1,Card-Not-Present,Chip + PIN,2025-04,2025-04-21,Friday,613.51,1,0,0
+103314,32991,2024-01-21 21:55:00,607.42,Health,8544,Platinum,ATM,France,0,1,0,0.35,21,Mobile,1,Card-Present,Chip only,2024-01,2024-01-15,Sunday,607.42,1,0,0
+435035,33777,2025-09-22 20:33:00,605.3,Groceries,6817,Gold,Online,France,0,1,0,11.19,20,Mobile,1,Card-Not-Present,Chip only,2025-09,2025-09-22,Monday,605.3,1,0,0
+416801,32549,2025-09-18 12:42:00,600.05,Electronics,7043,Credit,Online,Singapore,0,0,0,0.73,12,Mobile,1,Card-Not-Present,Neither chip nor PIN,2025-09,2025-09-15,Thursday,600.05,1,0,0
+297119,61685,2025-06-23 02:56:00,598.62,Travel,2152,Platinum,Online,USA,1,0,0,11.73,2,Terminal,1,Card-Not-Present,Neither chip nor PIN,2025-06,2025-06-23,Monday,598.62,1,0,1
+387232,48467,2024-11-14 20:38:00,592.86,Online Services,5496,Credit,Online,UK,0,0,0,8.21,20,Terminal,1,Card-Not-Present,Neither chip nor PIN,2024-11,2024-11-11,Thursday,592.86,1,0,0
+451654,15329,2024-06-06 05:09:00,592.56,Travel,5054,Credit,POS,France,0,0,0,0.01,5,Web,1,Card-Present,Neither chip nor PIN,2024-06,2024-06-03,Thursday,592.56,1,0,1
+213765,46373,2025-08-28 19:44:00,590.65,Utilities,9650,Credit,ATM,Germany,0,1,0,0.53,19,Mobile,1,Card-Present,Chip only,2025-08,2025-08-25,Thursday,590.65,1,0,0
+386176,27538,2025-07-26 20:33:00,588.89,Online Services,3307,Gold,Online,UK,0,0,0,5.17,20,Web,1,Card-Not-Present,Neither chip nor PIN,2025-07,2025-07-21,Saturday,588.89,1,0,0
+409149,27949,2024-04-30 02:56:00,588.37,Groceries,2002,Platinum,ATM,Germany,0,0,1,3.11,2,Terminal,1,Card-Present,PIN only,2024-04,2024-04-29,Tuesday,588.37,1,0,1
+30411,57155,2024-02-23 01:03:00,587.75,Groceries,1590,Credit,ATM,India,0,0,0,4.44,1,Web,1,Card-Present,Neither chip nor PIN,2024-02,2024-02-19,Friday,587.75,1,0,1
+50262,57186,2025-04-02 05:59:00,587.04,Health,4463,Platinum,Online,Singapore,0,0,0,15.25,5,Web,1,Card-Not-Present,Neither chip nor PIN,2025-04,2025-03-31,Wednesday,587.04,1,0,1
+390742,52232,2024-10-16 15:02:00,584.42,Online Services,6667,Credit,ATM,Australia,0,0,0,5.17,15,Mobile,1,Card-Present,Neither chip nor PIN,2024-10,2024-10-14,Wednesday,584.42,1,0,0
+202906,49954,2024-08-16 19:31:00,584.02,Food,4679,Gold,Online,India,1,0,0,2.77,19,Web,1,Card-Not-Present,Neither chip nor PIN,2024-08,2024-08-12,Friday,584.02,1,0,0
+458368,69208,2024-06-28 11:59:00,579.33,Utilities,3867,Platinum,Online,India,0,0,0,9.81,11,Web,1,Card-Not-Present,Neither chip nor PIN,2024-06,2024-06-24,Friday,579.33,0,0,0
+135190,50732,2025-05-25 16:07:00,576.53,Electronics,8367,Platinum,POS,Singapore,0,0,0,0.43,16,Mobile,1,Card-Present,Neither chip nor PIN,2025-05,2025-05-19,Sunday,576.53,0,0,0
+375724,98722,2025-05-18 23:21:00,574.49,Electronics,6876,Credit,POS,France,0,0,1,1.19,23,Terminal,1,Card-Present,PIN only,2025-05,2025-05-12,Sunday,574.49,0,0,0
+42717,50579,2025-02-05 21:39:00,569.74,Travel,2304,Gold,Online,Singapore,0,1,0,0.18,21,Mobile,1,Card-Not-Present,Chip only,2025-02,2025-02-03,Wednesday,569.74,0,0,0
+490593,62548,2025-09-17 03:55:00,569.7,Online Services,3995,Gold,ATM,India,0,0,0,1.04,3,Terminal,1,Card-Present,Neither chip nor PIN,2025-09,2025-09-15,Wednesday,569.7,0,0,1
+411275,45953,2024-06-11 06:59:00,568.58,Online Services,8890,Debit,POS,Canada,0,0,0,1.02,6,Mobile,1,Card-Present,Neither chip nor PIN,2024-06,2024-06-10,Tuesday,568.58,0,0,0
+279369,25314,2024-12-02 16:31:00,566.31,Food,7667,Credit,POS,UK,0,0,0,12.01,16,Web,1,Card-Present,Neither chip nor PIN,2024-12,2024-12-02,Monday,566.31,0,0,0
+438736,75615,2024-06-13 15:58:00,564.67,Entertainment,8835,Platinum,POS,Australia,0,0,1,3.69,15,Web,1,Card-Present,PIN only,2024-06,2024-06-10,Thursday,564.67,0,0,0
+454609,90209,2024-01-14 05:49:00,561.66,Electronics,5084,Platinum,Online,Germany,0,0,0,6.15,5,Terminal,1,Card-Not-Present,Neither chip nor PIN,2024-01,2024-01-08,Sunday,561.66,0,0,1

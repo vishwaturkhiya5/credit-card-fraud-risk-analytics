@@ -1,0 +1,16 @@
+check,value,status
+Source rows,500000.0,Observed
+Source columns,16.0,Observed
+Missing cells,0.0,Checked
+Exact duplicate rows,0.0,Checked
+Duplicate Transaction_ID,0.0,Checked
+Invalid dates,0.0,Checked
+Non-positive/invalid amounts,0.0,Checked
+Negative/invalid distance,0.0,Checked
+Invalid hour,0.0,Checked
+Invalid binary flags,0.0,Checked
+Rows missing required values,0.0,Checked
+Timestamp/hour mismatches,0.0,Checked
+Rows after cleaning,500000.0,Result
+99th percentile amount threshold,579.53,Derived
+99th percentile distance threshold,23.01,Derived

@@ -1,0 +1,3 @@
+Card_Presence,Total_Transactions,Fraudulent_Transactions,Total_Amount,Fraud_Loss,Legitimate_Transactions,Fraud_Rate,Average_Fraud_Amount
+Card-Present,333173,5003,48401785.71,722676.68,328170,0.015016222803168324,144.44866679992006
+Card-Not-Present,166827,2497,24232221.12,365541.98,164330,0.014967601167676694,146.39246295554665
