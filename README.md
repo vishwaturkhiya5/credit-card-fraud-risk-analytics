@@ -1,10 +1,5 @@
 # Credit Card Fraud Detection \& Financial Risk Analytics
 
-!\[Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)
-!\[SQL](https://img.shields.io/badge/SQL-SQLite-003B57)
-!\[Excel](https://img.shields.io/badge/Excel-Dashboard-217346)
-!\[Rows](https://img.shields.io/badge/Transactions-500%2C000-102A43)
-
 ## Project overview
 
 This project analyzes 500,000 credit card transactions to measure fraud exposure, compare risk across transaction channels and authentication signals, identify suspicious patterns, and provide a polished Excel monitoring dashboard. All reported figures are computed from the supplied CSV; no analytical result is invented.
@@ -35,7 +30,7 @@ The dataset does not include a separate authentication-method column. The analys
 * **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly-ready exports
 * **SQL:** SQLite, including CTEs, subqueries, `CASE WHEN`, `HAVING`, and window functions
 * **Excel:** formula-driven KPIs, analysis tables, dropdown filters, conditional formatting, and native charts
-* **Development:** VS Code, Jupyter Notebook, Git, GitHub
+* **Development:** VS Code, Git, GitHub
 
 ## Data-cleaning process
 
@@ -72,8 +67,6 @@ The supplied file passed every material cleaning rule, so all 500,000 rows remai
 
 ## Dashboard preview
 
-!\[Excel fraud-monitoring dashboard](images/dashboard\_preview.png)
-
 The dashboard includes six headline KPIs, country/card/device dropdown filters, fraud composition, channel and card-presence comparisons, authentication risk, monthly trends, category losses, and a high-risk segment table.
 
 ## Project folder structure
@@ -84,8 +77,6 @@ credit-card-fraud-risk-analytics/
 │   ├── raw/
 │   ├── processed/
 │   └── exports/
-├── notebooks/
-│   └── fraud\_risk\_analysis.ipynb
 ├── python/
 │   ├── fraud\_analysis.py
 │   ├── create\_notebook.py
@@ -159,22 +150,6 @@ If the `sqlite3` command is unavailable, install [DB Browser for SQLite](https:/
 3. KPI cards and chart-driving analysis use compact aggregates calculated from all 500,000 rows.
 4. Use table filter arrows on `Raw\_Data` and `Cleaned\_Data` for row-level inspection. To keep Excel responsive, these tabs contain the first 10,000 rows; the complete raw and cleaned CSV files remain in `data/`.
 5. Review metric definitions and assumptions in `Data\_Dictionary` before presenting findings.
-
-## Resume-ready project description
-
-**Credit Card Fraud Detection \& Financial Risk Analytics | Python, SQL, Excel**
-
-* Analyzed **500,000** credit card transactions using Python and SQL, validating a **1.50% fraud rate**, **7,500 fraudulent transactions**, and **$1.09M** in fraud exposure through reproducible quality checks and segment analysis.
-* Built an interactive Excel fraud-monitoring dashboard with formula-driven KPIs, filters, conditional formatting, and charts comparing channel, card-presence, authentication, geographic, temporal, and merchant-category risk.
-
-## Safe interview talking points
-
-* **Dataset finding:** exactly 500,000 transactions, including 7,500 fraud observations.
-* **Dataset finding:** fraud rate is 1.50%; total fraud-labeled amount is $1,088,218.66.
-* **Dataset finding:** total transaction value is $72.63M; average fraudulent amount is $145.10.
-* **Dataset finding:** observed channel and card-presence rate differences are very small.
-* **Analytical definition:** Online is treated as card-not-present; POS and ATM as card-present.
-* **Assumption:** `$` is used for presentation because the resume statement used dollars; the CSV has no currency column.
 
 ## Limitations and future improvements
 
