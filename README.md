@@ -85,7 +85,6 @@ credit-card-fraud-risk-analytics/
 │   └── fraud\_analysis\_sqlite.sql
 ├── excel\_dashboard/
 │   └── Credit\_Card\_Fraud\_Risk\_Dashboard.xlsx
-├── images/
 ├── requirements.txt
 ├── VALIDATION.md
 ├── README.md
